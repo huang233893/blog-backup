@@ -7,6 +7,10 @@
   home_essay: true
   top_background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/talk.jpg
   essay_list:
+    - content: 买了几个NFC标签搞小米一碰传，还挺方便的，还能给平板补全功能
+      video:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/NFCxiaomishare.mp4
+      date: 2025/10/10
     - content: 吓死了今天😭，不小心误删了博客源码的依赖文件，还好俺有定期备份，给恢复过来了，目前暂时没有太大影响
       date: 2025/10/10
     - content: Tidio私信现在重新启用啦~ 点击右下角工具栏的SMS图标即可私信
