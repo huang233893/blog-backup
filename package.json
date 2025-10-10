@@ -60,6 +60,8 @@
     "p-limit": "^6.2.0",
     "pwa-asset-generator": "^6.4.0",
     "shelljs": "^0.10.0",
+    "tencentcloud-sdk-nodejs": "^4.1.126",
+    "tencentcloud-sdk-nodejs-teo": "^4.1.126",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {

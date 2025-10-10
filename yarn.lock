@@ -1706,6 +1706,11 @@ bcrypt-pbkdf@^1.0.0:
   dependencies:
     tweetnacl "^0.14.3"
 
+bignumber.js@^9.0.0:
+  version "9.3.1"
+  resolved "https://registry.npmmirror.com/bignumber.js/-/bignumber.js-9.3.1.tgz"
+  integrity sha512-Ko0uX15oIUS7wJ3Rb30Fs6SkVbLmPBAKdlm7q9+ak9bbIeFf0MwuBsQV6z7+X768/cHsfg+WlysDWJcmthjsjQ==
+
 bin-build@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/bin-build/-/bin-build-3.0.0.tgz"
@@ -4704,6 +4709,17 @@ forever-agent@~0.6.1:
   resolved "https://registry.npmmirror.com/forever-agent/-/forever-agent-0.6.1.tgz"
   integrity sha512-j0KLYPhm6zeac4lz3oJ3o65qvgQCcPubiyotZrXqEaG4hNagNYO8qdlUrX5vwqv9ohqeT/Z3j6+yW067yWWdUw==
 
+form-data@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.npmmirror.com/form-data/-/form-data-3.0.4.tgz"
+  integrity sha512-f0cRzm6dkyVYV3nPoooP8XlccPQukegwhAnpoLcXy+X+A8KfpGOoXwDr9FLZd3wzgLaBGQBE3lY93Zm/i1JvIQ==
+  dependencies:
+    asynckit "^0.4.0"
+    combined-stream "^1.0.8"
+    es-set-tostringtag "^2.1.0"
+    hasown "^2.0.2"
+    mime-types "^2.1.35"
+
 form-data@^4.0.0, form-data@^4.0.4:
   version "4.0.4"
   resolved "https://registry.npmmirror.com/form-data/-/form-data-4.0.4.tgz"
@@ -6009,29 +6025,6 @@ hexo-theme-anzhiyu@^1.6.14:
     hexo-renderer-pug "^3.0.0"
     hexo-renderer-stylus "^3.0.0"
 
-hexo-theme-butterfly@^4.13.0:
-  version "4.13.0"
-  resolved "https://registry.npmmirror.com/hexo-theme-butterfly/-/hexo-theme-butterfly-4.13.0.tgz"
-  integrity sha512-k4ufTKDrvfer0EI1E6xU5JTgS471KRyXRgRBxoUdqpTVvtY8CUnFrzh0qcxjb5WMPOark8sTCgHn/sEDIaG3Kw==
-  dependencies:
-    hexo-renderer-pug "^3.0.0"
-    hexo-renderer-stylus "^3.0.1"
-
-hexo-theme-fluid@^1.9.8:
-  version "1.9.8"
-  resolved "https://registry.npmmirror.com/hexo-theme-fluid/-/hexo-theme-fluid-1.9.8.tgz"
-  integrity sha512-+HUx8xrBA2WWgJYMhlCy5L69LLgAL8PjsLIyIbh81Ftc0J71V69K04Zqv270VjRSs38rx9djeQPrgidtMdnh3g==
-
-hexo-theme-landscape@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmmirror.com/hexo-theme-landscape/-/hexo-theme-landscape-1.0.0.tgz"
-  integrity sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==
-
-hexo-theme-volantis@^5.8.0:
-  version "5.8.0"
-  resolved "https://registry.npmmirror.com/hexo-theme-volantis/-/hexo-theme-volantis-5.8.0.tgz"
-  integrity sha512-Ap8xHssnfEj6eNIoGMVJNiGUza0azPlXcnMaoVa+N69981W9VQ4QSWiylw4kyhE7uu21nCUWxFH7RptyLzDxkw==
-
 hexo-util@^0.1.6:
   version "0.1.7"
   resolved "https://registry.npmmirror.com/hexo-util/-/hexo-util-0.1.7.tgz"
@@ -6408,7 +6401,7 @@ https-proxy-agent@^2.2.3:
     agent-base "^4.3.0"
     debug "^3.1.0"
 
-https-proxy-agent@^5.0.1, https-proxy-agent@5.0.1:
+https-proxy-agent@^5.0.0, https-proxy-agent@^5.0.1, https-proxy-agent@5.0.1:
   version "5.0.1"
   resolved "https://registry.npmmirror.com/https-proxy-agent/-/https-proxy-agent-5.0.1.tgz"
   integrity sha512-dFcAjpTQFgoLMzC2VwU+C/CbS7uRL0lWmxDITmqm7C+7F0Odmj6s9l6alZc6AELXhrnggM2CeWSXHGOdX2YtwA==
@@ -6637,6 +6630,11 @@ ini@^1.3.4, ini@^1.3.5, ini@~1.3.0:
   version "1.3.8"
   resolved "https://registry.npmmirror.com/ini/-/ini-1.3.8.tgz"
   integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
+
+ini@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.npmmirror.com/ini/-/ini-5.0.0.tgz"
+  integrity sha512-+N0ngpO3e7cRUWOJAS7qw0IZIVc6XPrW4MlFBdD066F2L4k1L6ker3hLqSq7iXxU5tgS4WGkIUElWn5vogAEnw==
 
 inline-source-map@~0.5.0:
   version "0.5.0"
@@ -7420,6 +7418,13 @@ jsesc@~3.0.2:
   resolved "https://registry.npmmirror.com/jsesc/-/jsesc-3.0.2.tgz"
   integrity sha512-xKqzzWXDttJuOcawBt4KnKHHIf5oQ/Cxax+0PWFG+DFDgHNAdi+TXECADI+RYiFUMmx8792xsMbbgXj4CwnP4g==
 
+json-bigint@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmmirror.com/json-bigint/-/json-bigint-1.0.0.tgz"
+  integrity sha512-SiPv/8VpZuWbvLSMtTDU8hEfrZWg/mH/nV/b4o0CYbSxu1UIQPLdwKOCIyLQX+VIPO5vrLX3i8qtqFyhdPSUSQ==
+  dependencies:
+    bignumber.js "^9.0.0"
+
 json-buffer@3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/json-buffer/-/json-buffer-3.0.0.tgz"
@@ -7670,11 +7675,6 @@ lines-and-columns@^1.1.6:
   version "1.2.4"
   resolved "https://registry.npmmirror.com/lines-and-columns/-/lines-and-columns-1.2.4.tgz"
   integrity sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==
-
-live2d-widget-model-miku@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.npmmirror.com/live2d-widget-model-miku/-/live2d-widget-model-miku-1.0.5.tgz"
-  integrity sha512-uwthpWUAeqiA/tL87QNri1eNp0w0UKxM34n/PhA0ng/ZU4hhsJKYHaRcoPK8oOWbpLYCoS8uzWAACmXfomylTg==
 
 live2d-widget-model-wanko@^1.0.5:
   version "1.0.5"
@@ -8538,6 +8538,13 @@ node-fetch@^1.6.3:
     encoding "^0.1.11"
     is-stream "^1.0.1"
 
+node-fetch@^2.2.0:
+  version "2.7.0"
+  resolved "https://registry.npmmirror.com/node-fetch/-/node-fetch-2.7.0.tgz"
+  integrity sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==
+  dependencies:
+    whatwg-url "^5.0.0"
+
 node-fetch@^3.3.2:
   version "3.3.2"
   resolved "https://registry.npmmirror.com/node-fetch/-/node-fetch-3.3.2.tgz"
@@ -8802,7 +8809,7 @@ nth-check@~1.0.1:
   dependencies:
     boolbase "~1.0.0"
 
-nunjucks@^3.0.0, nunjucks@^3.0.1, nunjucks@^3.1.3, nunjucks@^3.1.6, nunjucks@^3.2.3:
+nunjucks@^3.0.1, nunjucks@^3.1.3, nunjucks@^3.1.6, nunjucks@^3.2.3:
   version "3.2.4"
   resolved "https://registry.npmmirror.com/nunjucks/-/nunjucks-3.2.4.tgz"
   integrity sha512-26XRV6BhkgK0VOxfbU5cQI+ICFUtMLixv1noZn1tGU38kQH5A5nmmbk/O45xdyBhD1esk47nKrY0mvQpZIhRjQ==
@@ -11692,6 +11699,44 @@ tempy@^0.6.0:
     type-fest "^0.16.0"
     unique-string "^2.0.0"
 
+tencentcloud-sdk-nodejs-common@*:
+  version "4.1.122"
+  resolved "https://registry.npmmirror.com/tencentcloud-sdk-nodejs-common/-/tencentcloud-sdk-nodejs-common-4.1.122.tgz"
+  integrity sha512-bzZ2f289vJz36l8bU/RZQrsvdLo/MNsETQ3w9KjTKknP4xJrmO8F+RE0nBuyKiEF0p+SR9V29it39lfjGnb4qg==
+  dependencies:
+    form-data "^3.0.4"
+    get-stream "^6.0.0"
+    https-proxy-agent "^5.0.0"
+    ini "^5.0.0"
+    is-stream "^2.0.0"
+    json-bigint "^1.0.0"
+    node-fetch "^2.2.0"
+    tslib "1.13.0"
+    uuid "^9.0.1"
+
+tencentcloud-sdk-nodejs-teo@^4.1.126:
+  version "4.1.126"
+  resolved "https://registry.npmmirror.com/tencentcloud-sdk-nodejs-teo/-/tencentcloud-sdk-nodejs-teo-4.1.126.tgz"
+  integrity sha512-82iPSA+4Owh7TZKgO3+tJ3yJ8e/u7smiSkj046pbTcuqDI5cI7ArP+dv20zIuStwiyDw+aUqNh+Nu2GSSu30/A==
+  dependencies:
+    tencentcloud-sdk-nodejs-common "*"
+    tslib "1.13.0"
+
+tencentcloud-sdk-nodejs@^4.1.126:
+  version "4.1.126"
+  resolved "https://registry.npmmirror.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.1.126.tgz"
+  integrity sha512-xjLtHl2FthzzDXSVaTWt7jLxgQfu6XR0G4vjTkAos/ACCMqHdtuZoye6xt3NRKU+vYcV/q5M73PfLM+ZYFkPAg==
+  dependencies:
+    form-data "^3.0.4"
+    get-stream "^6.0.0"
+    https-proxy-agent "^5.0.0"
+    ini "^5.0.0"
+    is-stream "^2.0.0"
+    json-bigint "^1.0.0"
+    node-fetch "^2.2.0"
+    tslib "1.13.0"
+    uuid "^9.0.1"
+
 term-size@^1.2.0:
   version "1.2.0"
   resolved "https://registry.npmmirror.com/term-size/-/term-size-1.2.0.tgz"
@@ -11958,6 +12003,11 @@ tslib@^2.0.3:
   version "2.8.1"
   resolved "https://registry.npmmirror.com/tslib/-/tslib-2.8.1.tgz"
   integrity sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==
+
+tslib@1.13.0:
+  version "1.13.0"
+  resolved "https://registry.npmmirror.com/tslib/-/tslib-1.13.0.tgz"
+  integrity sha512-i/6DQjL8Xf3be4K/E6Wgpekn5Qasl1usyw++dAA35Ue5orEn65VIxOA+YvNNl9HV3qv70T7CNwjODHZrLwvd1Q==
 
 tty-browserify@~0.0.0:
   version "0.0.1"
@@ -12352,6 +12402,11 @@ uuid@^3.0.0, uuid@^3.0.1:
   version "3.4.0"
   resolved "https://registry.npmmirror.com/uuid/-/uuid-3.4.0.tgz"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
+
+uuid@^9.0.1:
+  version "9.0.1"
+  resolved "https://registry.npmmirror.com/uuid/-/uuid-9.0.1.tgz"
+  integrity sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==
 
 v8flags@^4.0.0:
   version "4.0.1"
