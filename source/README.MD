@@ -2,7 +2,7 @@
 
 欢迎大家访问，地址是：http://www.sumi233.top
 
-![]("https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/gitPages.png")
+![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/gitPages.png)
 
 # 使用以下框架
 
