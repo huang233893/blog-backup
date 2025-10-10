@@ -104,21 +104,19 @@ deploy:
     branch: main
   - type: baidu_url_submitter
   - type: indexnow_url_submitter
-
-deploy1:
-  type: tencent-cos
-  secret_id: IKIDkpmgPvDLFGAqKbicKvIUSFpBMLuGORRJ
-  secret_key: jGahborhKjxAB0c1FF2kFZgfQ0ObCetw
-  bucket: edgeone-3eujucp2c4i4
-  region: zone-3exqr1us7xlg
-  upload_dir: public  # 默认上传 Hexo 的 public 目录
-  cache_type: edgeone # 可选值 cdn（默认）, edgeone
-  cdn_domains:
+  - type: tencent-cos
+    secret_id: IKIDkpmgPvDLFGAqKbicKvIUSFpBMLuGORRJ
+    secret_key: jGahborhKjxAB0c1FF2kFZgfQ0ObCetw
+    bucket: edgeone-3eujucp2c4i4
+    region: zone-3exqr1us7xlg
+    upload_dir: public  # 默认上传 Hexo 的 public 目录
+    cache_type: edgeone # 可选值 cdn（默认）, edgeone
+    cdn_domains:
       - domain: https://www.sumi233.top
         ignore_extensions: ['.html']
-  remove_remote_files: true  # 是否删除 COS 中多余的远程文件
-  refresh_index_page: true  # 是否将 index.html 刷新为根路径
-  concurrency: 10  # 腾讯云 API 并发数
+    remove_remote_files: true  # 是否删除 COS 中多余的远程文件
+    refresh_index_page: true  # 是否将 index.html 刷新为根路径
+    concurrency: 10  # 腾讯云 API 并发数
 
 
 # Live2D
