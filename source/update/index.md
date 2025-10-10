@@ -7,6 +7,9 @@ type: update
 ---
 
 {% timeline 2025,blue %}
+<!-- timeline 10-10 -->
+添加EdgeOne CDN缓存刷新功能，终于不用为了博客的修改刷新好几次啦
+<!-- endtimeline -->
 <!-- timeline 10-08 -->
 修复Tidio私信功能，现在可以使用啦~ 修改了网页导航，添加了网站检测页
 ![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/tidio3.png)
