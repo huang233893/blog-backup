@@ -1,0 +1,105 @@
+- class_name: 关于酥米
+  subtitle: 有朝一日，寻见梦中人✨
+  avatarImg: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/userfb6a1018b84ce485.jpg
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+      - 🏠 在家躺平小咸鱼
+    right:
+      - 专修计算机网络 🤝
+      - 脚踏实地行动派 🏃
+      - 下课摸鱼第一名 🧱
+  name: 酥米
+  description: 是一名 学生、博主
+  aboutsiteTips:
+    tips: 终有一日
+    title1: 中
+    title2: 将会寻见
+    word:
+      - 梦想
+      - 梦中人
+      - 对的事
+      - 心中的歌
+  helloAbout: 是酥米吖!
+  skillsTips:
+    tips: 技能
+    title: 开启想象力、展现创造力、没有执行力（doge）
+  careers:
+    tips: 生涯
+    title: 努力进步
+    list:
+      - desc: 初中,初一
+        color: "#ffa500"
+      - desc: 初中,初二
+        color: "#ffa500"
+      - desc: 初中,初三
+        color: "#ffa500"
+      - desc: 中职,计算机网络技术
+        color: "#ffa500"
+      - desc: 中职,计算机网络技术
+        color: "#ffa500"
+      - desc: 中职,计算机网络技术
+        color: "#ffa500"
+    img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/TimeLine.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/busuanzi.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，佛山市
+    background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241120093324e83c6abd415ae3f8.jpg
+    backgroundDark: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241120093324e83c6abd415ae3f8.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2007
+    selfInfoTips2: 华材职校
+    selfInfoContent2: 计算机网络技术
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 高三学生👨‍🎓
+  personalities:
+    author_name: 探险家
+    personality_type: ISPF-A
+    photo_url: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/About_background2.jpg
+    personality_img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/txj2a9d5bd7484bff3d.png
+    name_url: https://www.16personalities.com/ch/isfp-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 不负青春，
+    maxim_bottom: 不负自己！
+  buff:
+    buff_tips: 特长
+    buff_top: 睡懒觉的 麻辣鱼
+    buff_bottom: 躺平指数 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: Minecraft
+    game_uid: "游戏名称： Supermini233"
+    game_bg: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/apps.60323.14294656681058683.4d17bdd8-7026-429a-846f-cf7836bc9e5699c0353db0411d5f.jpg
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 总之就是非常可爱
+        href: https://www.bilibili.com/bangumi/media/md28229676
+        cover: https://i0.hdslb.com/bfs/bangumi/image/3b97bfc609e08417eb391ef975a8648c28c55e04.png@338w_450h.webp
+      - name: 总之就是非常可爱 第二季
+        href: https://www.bilibili.com/bangumi/media/md20266559
+        cover: https://i0.hdslb.com/bfs/bangumi/image/2f57b2255f0b8608fabdca55612d40b4249d4dcb.png@338w_450h.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/%E6%95%B0%E7%A0%81.png
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: R&B、Hip Pop、J-Pop、C-Pop
+    music_bg: https://p1.music.126.net/UStPyjKyWaKI4_PPdWyjXQ==/109951167674557545.jpg
+    music_link: /music
+  tenyear:
+    enable: true # 十年之约开关，true为显示，false为隐藏
+    tips: 十年之约
+    title: 十年之期，是否能寻见梦中人呢？
+    start: 2020/06/04
+    end: 2030/06/04

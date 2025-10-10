@@ -1,0 +1,80 @@
+top:
+  - class_name: card-boringbay
+    id_name:
+    name: 无聊湾
+    icon: 
+    html: |
+        <a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="60px" src="https://boringbay.com/api/badge/www.sumi233.top" loading="eager" class="no-lazy" referrerpolicy="origin"></img></a>
+  - class_name: card-blogclub
+    id_name:
+    name: 博阅榜
+    icon: 
+    html: |
+      <a href="https://www.blogsclub.org/rank.html" target="_blank"><img id="blogclub-badge" style="height:60px!important;border:0;display:none;" class="no-lazy" referrerpolicy="unsafe-url"><script>function loadBadge(){const img=document.getElementById("blogclub-badge");if(img){img.src="";img.style.display="none";const load=()=>{img.src=`https://www.blogsclub.org/badge/www.sumi233.top?ref=${encodeURIComponent(window.location.origin)}&t=${Date.now()}_${Math.random()}`;img.onload=()=>{img.style.display="inline-block";};img.onerror=()=>{setTimeout(load,1000);}};load();}}const observer=new MutationObserver((mutations,obs)=>{if(document.getElementById("blogclub-badge")){loadBadge();obs.disconnect();}});observer.observe(document.body,{childList:true,subtree:true});window.addEventListener("pjax:complete",()=>{observer.observe(document.body,{childList:true,subtree:true});});</script></a>
+        
+  - class_name: calendar
+    id_name: card-widget-calendar
+    name:
+    icon:
+    order: -1
+    html: |
+      <div id="calendar-area-left">
+        <div id="calendar-week"></div>
+        <div id="calendar-date" style="font-size: 48px;"></div>
+        <div id="calendar-solar"></div>
+        <div id="calendar-lunar"></div>
+      </div>
+      <div id="calendar-area-right">
+        <div id="calendar-main">
+        </div>
+      </div>
+
+bottom:
+  - class_name: schedule
+    id_name: card-widget-schedule
+    name:
+    icon:
+    order: -1
+    html: |
+      <div id="schedule-area-left">
+        <div id="schedule-title">距离除夕</div>
+        <div id="schedule-days"></div>
+        <div id="schedule-date">2026-2-16</div>
+      </div>
+      <div id="schedule-area-right">
+        <div class="schedule-r0">
+          <div class="schedule-d0">本年</div>
+          <div class="schedule-d1">
+            <span id="p_span_year" class="aside-span1"></span>
+            <span class="aside-span2">还剩<a></a>天</span>
+            <progress max="365" id="pBar_year"></progress>
+          </div>
+        </div>
+        <div class="schedule-r1">
+          <div class="schedule-d0">本月</div>
+          <div class="schedule-d1">
+            <span id="p_span_month" class="aside-span1"></span>
+            <span class="aside-span2">还剩<a></a>天</span>
+            <progress max="30" id="pBar_month"></progress>
+          </div>
+        </div>
+        <div class="schedule-r2">
+          <div class="schedule-d0">本周</div>
+          <div class="schedule-d1">
+            <span id="p_span_week" class="aside-span1"></span>
+            <span class="aside-span2">还剩<a></a>天</span>
+            <progress max="7" id="pBar_week"></progress>
+          </div>
+        </div>
+      </div>
+
+  - class_name: card-latest-comments
+    id_name:
+    name: 最新评论
+    icon: fas fa-comments
+    html: |
+        <a href="/messages/" class="headline-right" title="查看更多">
+          <i class="fas fa-angle-right"></i>
+        </a>
+        <div class="aside-list" id="latest-comments"></div>
+

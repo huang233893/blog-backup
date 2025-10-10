@@ -1,0 +1,103 @@
+- class_name: 酥米珍藏壁纸
+  path_name: /wallpaper
+  type: 2
+  description: 没戳，就是酥米常用的壁纸🌇。
+  cover: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/wallpaper%20(1).jpeg
+  top_background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/wallpaper%20(2).jpeg
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2024/10/26 01:00:00
+      content: 酥米的桌面壁纸。
+      address: 广东佛山
+      from: Supermini233
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/wallpaper%20(2).jpeg
+    - date: 2024-10-25
+      content: 其他壁纸
+      address: 广东佛山
+      from: Supermini233
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/wallpaper%20(1).jpeg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/wallpaper%20(2).jpg
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241120103707ddf405d980f6bf07.jpg
+  cover: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241120103707ddf405d980f6bf07.jpg
+  album_list:
+    - date: 2021-4-4
+      content: 远古面基图
+      address: 广东佛山禅城
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/3bcdc5ac3a60cd8875c59d315f333978.jpeg
+    - date: 2023-1-21
+      content: 飞机撞击广州塔
+      address: 广东广州海珠
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241120103659b454d86a17f2f463.jpg
+    - date: 2024-11-03
+      content: 东莞之旅鸭~
+      address: 广东东莞南城
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241122090120cc74e6fad346f093.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241122090121d561a93d0dd1ddc3.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_202411220901201d9a67d20208c33b8.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_202411220901211ebf17af9013f8956.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_2024112209011870dcefabe8636c73.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_202411220901191c1e50804ed7363d2.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241122090119668039a4705b762b.jpg
+
+    - date: 2024-11-10
+      content: 装机日常
+      address: 广东佛山
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241120103707ddf405d980f6bf07.jpg
+    - date: 2024-11-19
+      content: 蜜雪冰城大甩卖
+      address: 广东佛山
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_202411201036411bce8a1e2e2f9378.md.jpg
+    - date: 2024-11-27
+      content: 三水西南之旅
+      address: 广东佛山三水
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_202411271553513b9fcf941fc1f4bf.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241127155354de488554c4c7c0f2.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241127155348b522105adc3b0926.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_2024112715540035363f019efcde99.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_202411271554102755d8d6ac46fdf1.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241127155357698eda627ee4e0d4.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241127155345897f370404277cb9.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_20241127155305a15e9a4b54e67211.jpg        
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_2024112715540657a83f921a681b41.jpg
+    - date: 2025-09-13
+      content: 梦里水乡里水贤鲁岛之旅
+      address: 广东佛山南海
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/IMG_20250913_141207.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/IMG_20250913_134630.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/IMG_20250913_134533.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/IMG_20250913_133318.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/IMG_20250913_133851.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/wx_camera_1757740361925.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/IMG_20250913_133313.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/IMG_20250913_104422.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/IMG_20250913_141220.jpg
+    - date: 2025-10-07
+      content: 番禺&南沙&顺德之旅
+      address: 广东佛山顺德、广州番禺、广州南沙
+      image:
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/pysq-9.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/sdrg-1.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/ns-11.jpg
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/ns-12.jpg

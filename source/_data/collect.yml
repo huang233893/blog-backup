@@ -1,0 +1,37 @@
+- class_name: 📺 电影
+  class_desc: 酥米喜欢的电影
+  link_list:
+    - name: 你的名字 #名字
+      img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/p2910701461.webp
+      score: 5 # 1-5星
+      icon: fa-solid anzhiyu-icon-book #左上角图标
+      tip: 电影 # 右上角文字
+      url: https://movie.douban.com/subject/26683290/
+    - name: 天气之子 #名字
+      img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/p2558022335.webp
+      score: 5 # 1-5星
+      icon: fa-solid anzhiyu-icon-book #左上角图标
+      tip: 电影 # 右上角文字
+      url: https://movie.douban.com/subject/30402296/
+    - name: 铃芽之旅
+      img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/p291070146122.webp
+      score: 5 # 1-5星
+      icon: fa-solid anzhiyu-icon-book #左上角图标
+      tip: 电影 # 右上角文字
+      url: https://movie.douban.com/subject/35371261/
+
+- class_name: 🎮 游戏
+  class_desc: 酥米喜欢的游戏
+  link_list:
+    - name: Minecraft #名字
+      img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/apps.60323.14294656681058683.4d17bdd8-7026-429a-846f-cf7836bc9e5699c0353db0411d5f.jpg
+      score: 5 # 1-5星
+      icon: fa-solid anzhiyu-icon-play #左上角图标
+      tip: 沙盒游戏 # 右上角文字
+      url: https://www.minecraft.net
+    - name: Grand Theft Auto V
+      img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/GTA5.jpg
+      score: 5 # 1-5星
+      icon: fa-solid anzhiyu-icon-play #左上角图标
+      tip: 开放世界游戏 # 右上角文字
+      url: https://www.rockstargames.com/gta-v/

@@ -1,0 +1,41 @@
+- class_name: 不负青春，不负自己
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(2).jpg
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bu.dusays.com/2023/04/09/643293b0f0abe.png
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(4).png
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Python
+      color: "#fff"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(5).png
+    - name: HTML
+      color: "#e9572b"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(3).png
+    - name: Git
+      color: "#df5b40"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(1).webp
+    - name: eNSP
+      color: "#e65164"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(8).png
+    - name: Console
+      color: "#fff"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(3).jpg
+    - name: Linux
+      color: "#fff"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(1).jpg
+    - name: Hexo
+      color: "#f7cb4f"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(2).png
+    - name: Cisco
+      color: "#2e3a41"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(7).png
+    - name: Bilili
+      color: "#fb7299"
+      icon: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/i%20(6).png

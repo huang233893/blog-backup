@@ -1,0 +1,51 @@
+- class_name: 好物
+  description: 酥米的EDC
+  tip: 跟 酥米 一起享受科技带来的乐趣（BUSHI）
+  top_background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/581a497c_E165067_ec3c8d34fe66af967e0691b5.png
+  good_things:
+    - title: 生产力
+      description: 提升自己生产效率的硬件设备
+      equipment_list:
+        - name: 七彩虹隐星P16 23
+          specification: i7 12650h + RTX4060 16G / 1TB
+          description: 屏幕显示效果好、4060显卡性能强劲、性价比高。
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/202305171636545756f304628721a30eb8.webp
+          link: https://www.colorful.com.cn/home/product?mid=158&id=33
+        - name: Redmi K50 Ultra
+          specification: 黑色 / 16G / 512G
+          description: 1.5K养眼屏幕，曲面边框，小米12系列祖传摄像头设计，裸机手感润滑，深得我心，唯一缺点大概就是华星屏有可能出问题。
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/7acb0a46f21fbe096b63aef2bf341b338744eaf807828f37fe41cc3b52eb.webp
+          link: https://baike.baidu.com/item/Redmi%20K50%20%E8%87%B3%E5%B0%8A%E7%89%88/61854676
+        - name: Xiaomi Pad 5
+          specification: 黑色 / 6G / 256G
+          description: 2.5KLCD屏幕，薄机身，可以刷Windows，买前生产力，买后bilibili。
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/specs_m1.png
+          link: https://www.mi.com/xiaomipad5/specs
+        - name: iPhone 6S Plus
+          specification: 金色 / 2G / 128G
+          description: 金属机身，3d touch，a9的性能吊打骁龙680，现在当mp3用。
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/111996_SP727-iphone6s-plus-gray-select-2015.png
+          link: https://support.apple.com/zh-cn/111996
+    - title: 出行
+      description: 用来出行的实物及设备
+      equipment_list:
+        - name: Xiaomi Watch S3
+          specification: 黑色 / 蓝牙版
+          description: 也为了小米生态而买，用于防止我过早的猝死在学校（bushi），有澎湃2.0更新，维护不行，系统一堆bugs，功能半残了，难崩。
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/32195701edb4dd8950a.png
+          link: https://www.mi.com/xiaomi-watch-s3
+        - name: Redmi Buds 5 Pro
+          specification: Pro
+          description: 是的4代升5代，更加垃圾了
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/1697.png
+          link: https://www.mi.com/redmibuds5pro
+        - name: Celi Koel 单肩包
+          specification: 黑色
+          description: 最普通的单肩包，因为平时不带电脑，小小的一个包深得我心，口袋齐全，可以放进很多东西
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_202411201609333fedb1dbef2ffb57.jpg
+          link: https://mobile.yangkeduo.com/goods1.html?ps=OOsQ3ACMEn
+        - name: 不知名电脑包一个
+          specification: 黑色
+          description: 最普通的电脑包，淘宝购入，质量还行，装我的游戏本绰绰有余，还有单肩挂绳
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/9385049438_1126074905ee54fa02b0662f41.jpg
+          link: https://jd.com
