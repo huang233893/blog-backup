@@ -7,7 +7,7 @@
   home_essay: true
   top_background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/talk.jpg
   essay_list:
-    - content: 测试完啦！，EdgeOne刷新缓存修好啦
+    - content: 很坏的消息，在edgeone pages下托管的博客目前有bug，目录后缀会自己加上index.html导致评论消失，目前使用回cloudflare 进行托管，并且应该不会再改变（可能期间网站打不开，谢谢各位读者理解）
       date: 2025/10/11
     - content: 买了几个NFC标签搞小米一碰传，还挺方便的，还能给平板补全功能
       video:
