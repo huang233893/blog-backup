@@ -5853,6 +5853,15 @@ hexo-generator-tag@^2.0.0:
   dependencies:
     hexo-pagination "3.0.0"
 
+hexo-generator-wxapi@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.npmmirror.com/hexo-generator-wxapi/-/hexo-generator-wxapi-1.0.6.tgz"
+  integrity sha512-m4JEgQajAWph0oxZmPqfWTmSxRlO02TUv4GgcV2uo5b0y/gvQAG+PlVuoRuiZ4QavFDW+iBne2qabPRZkyrm6Q==
+  dependencies:
+    hexo-pagination "^0.1.0"
+    lodash.pick "^4.4.0"
+    nunjucks "^3.0.1"
+
 hexo-helper-live2d@^3.1.1:
   version "3.1.1"
   resolved "https://registry.npmmirror.com/hexo-helper-live2d/-/hexo-helper-live2d-3.1.1.tgz"
@@ -5943,6 +5952,13 @@ hexo-oh-my-live2d@^0.1.4:
   integrity sha512-k+fvMZgiwEefWcsV0JavXk0WqyMsmCGuOwCDY5lhez2MpFYdLsDujxu3PLQkK6xumxYRhmz2GwFI9fYfAUIrew==
   dependencies:
     oh-my-live2d "^0.19.3"
+
+hexo-pagination@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.npmmirror.com/hexo-pagination/-/hexo-pagination-0.1.0.tgz"
+  integrity sha512-Ji/LYq7xP7cdBdG15CJ4YZZNA/c6Kf64rXj+Jp2bKsC2JTgcBmz+GGkHwpk6aoMHXRP2XraxGcGjXhITr7ooYg==
+  dependencies:
+    object-assign "^4.1.0"
 
 hexo-pagination@3.0.0:
   version "3.0.0"
@@ -7784,7 +7800,7 @@ lodash.merge@^4.4.0, lodash.merge@^4.6.2:
   resolved "https://registry.npmmirror.com/lodash.merge/-/lodash.merge-4.6.2.tgz"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
 
-lodash.pick@^4.2.1:
+lodash.pick@^4.2.1, lodash.pick@^4.4.0:
   version "4.4.0"
   resolved "https://registry.npmmirror.com/lodash.pick/-/lodash.pick-4.4.0.tgz"
   integrity sha512-hXt6Ul/5yWjfklSGvLQl8vM//l3FtyHZeuelpzK6mm99pNvN9yTDruNZPEJZD1oWrqo+izBmB7oUfWgcCX7s4Q==
