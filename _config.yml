@@ -332,4 +332,15 @@ robots:
     - https://www.sumi233.top/sitemap.xml
     - https://www.sumi233.top/baidusitemap.xml
 
-
+jsonContent:
+  meta: false  # 不包含元数据
+  pages: false  # 不包含页面
+  posts:  # 文章相关字段
+    title: true
+    date: true
+    path: true  # 文章路径（用于拼接链接）
+    excerpt: true  # 摘要
+    content: true  # Markdown 源码（关键！用于 App 渲染）
+    categories: true  # 分类
+    tags: true  # 标签
+    cover: true  # 封面图（如果 Butterfly 主题配置了 cover）
