@@ -133,7 +133,8 @@
       "name": "辰渊尘の个人博客",
       "link": "https://blog.mcxiaochen.top/",
       "avatar": "https://blog.mcxiaochen.top/favicon.ico",
-      "descr": "05后,高中生,内容偏技术向希望能对你有用QwQ"
+      "descr": "05后,高中生,内容偏技术向希望能对你有用QwQ",
+      "recommend": true
     },
     {
       "name": "彬红茶日记",
@@ -174,6 +175,13 @@
       "descr": "无恙桃花，依然燕子，春景多别"
     },
     {
+      "name": "严重浪漫",
+      "link": "https://www.bat69.com/",
+      "avatar": "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/yanzhonglangman.webp",
+      "descr": "严重浪漫博客",
+      "recommend": true
+    },
+    {
       "name": "网易云直链解析",
       "link": "https://api.toubiec.cn/wyapi.html",
       "avatar": "https://ts3.tc.mm.bing.net/th/id/ODF.jjoQ4Vf3Wtohq3QsAi1UMA?w=32&h=32&qlt=70&pcl=fffffa&o=7&cb=thws4&pid=1.2&rm=3",
@@ -209,5 +217,5 @@
       "siteshot": "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/Thiscloverpages.jpg"
     }
   ],
-  "length": 32
+  "length": 33
 }

@@ -96,6 +96,7 @@
       link: https://blog.mcxiaochen.top/
       avatar: https://blog.mcxiaochen.top/favicon.ico
       descr: 05后,高中生,内容偏技术向希望能对你有用QwQ
+      recommend: true
     - name: 彬红茶日记
       link: https://note.redcha.cn
       avatar: https://note.redcha.cn/upload/favicon-256x256.png
@@ -122,6 +123,12 @@
       link: https://linqiushi.top
       avatar: https://youke1.picui.cn/s1/2025/10/07/68e52c2a55563.png
       descr: 无恙桃花，依然燕子，春景多别
+    - name: 严重浪漫
+      link: https://www.bat69.com/
+      avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/yanzhonglangman.webp
+      descr: 严重浪漫博客
+      recommend: true
+
 
 - class_name: 推荐地址
   class_desc: 酥米常用的网站地址
