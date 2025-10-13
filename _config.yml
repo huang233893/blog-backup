@@ -318,16 +318,6 @@ robots:
   user_agent: "*"   # 如果要写通配符，请务必要加上双引号，不然解析会报错
   allow:
     - / 
-  disallow:
-    - /js/
-    - /css/
-    - /images/
-    - /archives/
-    - /schedule/
-    - /tags/
-    - /html-add/
-    - /custom/
-    - /charts/
   sitemaps:
     - https://www.sumi233.top/sitemap.xml
     - https://www.sumi233.top/baidusitemap.xml
