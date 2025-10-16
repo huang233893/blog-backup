@@ -214,6 +214,24 @@
       "descr": "科技激荡人文，洞见智慧本真。"
     },
     {
+      "name": "老罗博客",
+      "link": "https://www.luosir.cn/",
+      "avatar": "https://q2.qlogo.cn/g?b=qq&nk=10936102&s=100",
+      "descr": "记录喜欢折腾的日常"
+    },
+    {
+      "name": "老罗博客",
+      "link": "https://www.luosir.cn/",
+      "avatar": "https://q2.qlogo.cn/g?b=qq&nk=10936102&s=100",
+      "descr": "记录喜欢折腾的日常"
+    },
+    {
+      "name": "默小班",
+      "link": "https://www.memxb.top/",
+      "avatar": "https://wmimg.com/i/780/2025/07/68677fe53c2d1.png",
+      "descr": "一个初中生的小站点。"
+    },
+    {
       "name": "网易云直链解析",
       "link": "https://api.toubiec.cn/wyapi.html",
       "avatar": "https://ts3.tc.mm.bing.net/th/id/ODF.jjoQ4Vf3Wtohq3QsAi1UMA?w=32&h=32&qlt=70&pcl=fffffa&o=7&cb=thws4&pid=1.2&rm=3",
@@ -249,5 +267,5 @@
       "siteshot": "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/Thiscloverpages.jpg"
     }
   ],
-  "length": 38
+  "length": 41
 }

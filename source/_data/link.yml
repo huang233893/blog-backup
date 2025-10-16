@@ -150,8 +150,18 @@
       link: https://blog.6uu.us
       avatar: https://blog.6uu.us/upload/00000.png
       descr: 科技激荡人文，洞见智慧本真。
-
-
+    - name: 老罗博客
+      link: https://www.luosir.cn/
+      avatar: https://q2.qlogo.cn/g?b=qq&nk=10936102&s=100
+      descr: 记录喜欢折腾的日常
+    - name: 老罗博客
+      link: https://www.luosir.cn/
+      avatar: https://q2.qlogo.cn/g?b=qq&nk=10936102&s=100
+      descr: 记录喜欢折腾的日常
+    - name: 默小班
+      link: https://www.memxb.top/
+      avatar: https://wmimg.com/i/780/2025/07/68677fe53c2d1.png
+      descr: 一个初中生的小站点。
 
 - class_name: 推荐地址
   class_desc: 酥米常用的网站地址
