@@ -40,10 +40,13 @@ type: "about"
 
 酥米已经加入以下博客联盟啦😍~ 你也一起来参加吧~
 
+- [**中文博客集合**](https://github.com/timqian/chinese-independent-blogs "chinese-independent-blogs")
 - [**BlogFinder**](https://bf.zzxworld.com/s/1662 "BlogFinder")
 - [**BlogClub**](https://www.blogsclub.org/blog/405.html "BlogClub")
 - [**开往**](https://www.travellings.cn/ "travellings")
 - [**博友圈**](https://www.boyouquan.com/blogs/www.sumi233.top "boyouquan")
+- [**博客说**](https://blogtalk.org/blogs/www.sumi233.top "BlogTalk")
+- [**个站商店**](https://storeweb.cn/site/o/2501 "StoreWeb")
 
 
 ### 创站历史
