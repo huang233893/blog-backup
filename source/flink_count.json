@@ -182,6 +182,38 @@
       "recommend": true
     },
     {
+      "name": "定の栈",
+      "link": "https://saop.cc",
+      "avatar": "https://saop.cc/avatar.webp",
+      "descr": "LINK START!",
+      "recommend": true
+    },
+    {
+      "name": "Ryan Wang",
+      "link": "https://ryanc.cc/",
+      "avatar": "https://ryanc.cc/upload/avatar-128-2024.jpg",
+      "descr": "Hi there 👋",
+      "recommend": true
+    },
+    {
+      "name": "Eilo's Blog",
+      "link": "https://www.eilo.uk/",
+      "avatar": "https://www.eilo.uk/img/logo.png",
+      "descr": "等等我记一下"
+    },
+    {
+      "name": "李开开博客",
+      "link": "https://blog.caonmd.com/",
+      "avatar": "https://blog.caonmd.com/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png",
+      "descr": "李开开的技术学习与日常分享"
+    },
+    {
+      "name": "bbb-lsy07",
+      "link": "https://blog.6uu.us",
+      "avatar": "https://blog.6uu.us/upload/00000.png",
+      "descr": "科技激荡人文，洞见智慧本真。"
+    },
+    {
       "name": "网易云直链解析",
       "link": "https://api.toubiec.cn/wyapi.html",
       "avatar": "https://ts3.tc.mm.bing.net/th/id/ODF.jjoQ4Vf3Wtohq3QsAi1UMA?w=32&h=32&qlt=70&pcl=fffffa&o=7&cb=thws4&pid=1.2&rm=3",
@@ -217,5 +249,5 @@
       "siteshot": "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/Thiscloverpages.jpg"
     }
   ],
-  "length": 33
+  "length": 38
 }
