@@ -232,6 +232,12 @@
       "descr": "皮一下，很开心！"
     },
     {
+      "name": "小林先森",
+      "link": "https://blog.1edg.cn",
+      "avatar": "https://pic1.imgdb.cn/item/68eda974c5157e1a886d6347.png",
+      "descr": "小林的视界，分享生活，留住感动"
+    },
+    {
       "name": "网易云直链解析",
       "link": "https://api.toubiec.cn/wyapi.html",
       "avatar": "https://ts3.tc.mm.bing.net/th/id/ODF.jjoQ4Vf3Wtohq3QsAi1UMA?w=32&h=32&qlt=70&pcl=fffffa&o=7&cb=thws4&pid=1.2&rm=3",
@@ -267,5 +273,5 @@
       "siteshot": "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/Thiscloverpages.jpg"
     }
   ],
-  "length": 41
+  "length": 42
 }
