@@ -14,7 +14,7 @@ type: "link"
 ```
 name: 酥米的小站
 link: https://www.sumi233.top
-avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/userfb6a1018b84ce485.jpg
+avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/usersumi.png
 descr: 终有一日，寻梦中人
 ```
 <!-- endtab -->
@@ -25,7 +25,7 @@ descr: 终有一日，寻梦中人
     title: "酥米的小站",
     intro: "终有一日，寻梦中人",
     link: "https://www.sumi233.top",
-    image: "https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/userfb6a1018b84ce485.jpg",
+    image: "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/usersumi.png",
   }
 ```
 <!-- endtab -->
