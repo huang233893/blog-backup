@@ -10,7 +10,6 @@ tags:
   - 教程
 categories: 
   - 搞机类
-  - 教程类
 cover: >-
   https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/7f9ab381466b2cab6d83ae8962a5d2281459383e.jpg%40672w_378h_1c.webp
 date: 2025-08-19 19:05:13
