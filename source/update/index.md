@@ -8,7 +8,7 @@ type: update
 
 {% timeline 2025,blue %}
 <!-- timeline 10-17 -->
-
+修复控制台显示的各种错误，提高网站无缓存启动速度，Cloudflare CDN TTL缓存设置为5分钟刷新一次
 <!-- endtimeline -->
 <!-- timeline 10-13 -->
 更换回cloudflare pages托管，并且配置缓存刷新功能，目前是两小时刷新一次
