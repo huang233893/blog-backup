@@ -7,6 +7,8 @@
   home_essay: true
   top_background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/talk.jpg
   essay_list:
+    - content: 为了防止有别有用心的人进行刷新评论操作，本站从今天起测试性评论turnstile服务
+      date: 2025/10/19
     - content: 酥米后续来啦!今天果不其然还是跑去朋友那玩啦，音游真滴好难，酥米表示打不动中二哈哈
       date: 2025/10/18
     - content: 今天把以前更改目录之后消失的评论给恢复回来啦~ 明天天还得帮朋友搞装机的事，先睡啦~
