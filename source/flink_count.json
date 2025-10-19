@@ -238,6 +238,27 @@
       "descr": "小林的视界，分享生活，留住感动"
     },
     {
+      "name": "哈喽！林墨白",
+      "link": "https://blog.lmb.blue/",
+      "avatar": "https://files.blog.lmb.blue/assets/img/logo/pink-black.png",
+      "descr": "沉墨满纸，一笑若白。",
+      "recommend": true
+    },
+    {
+      "name": "ElysiumStack",
+      "link": "https://www.elysium-stack.cn/",
+      "avatar": "https://www.elysium-stack.cn/upload/ee0757e6-ebb4-46d0-a388-660f648653ea.jpg",
+      "descr": "不会摄影的设计师不是优秀的旅行家",
+      "recommend": true
+    },
+    {
+      "name": "Xuan's blog",
+      "link": "https://blog.ybyq.wang/",
+      "avatar": "https://blog.ybyq.wang/usr/themes/handsome/assets/img/avatar.png",
+      "descr": "分享技术教程和学习笔记",
+      "recommend": true
+    },
+    {
       "name": "网易云直链解析",
       "link": "https://api.toubiec.cn/wyapi.html",
       "avatar": "https://ts3.tc.mm.bing.net/th/id/ODF.jjoQ4Vf3Wtohq3QsAi1UMA?w=32&h=32&qlt=70&pcl=fffffa&o=7&cb=thws4&pid=1.2&rm=3",
@@ -273,5 +294,5 @@
       "siteshot": "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/Thiscloverpages.jpg"
     }
   ],
-  "length": 42
+  "length": 45
 }

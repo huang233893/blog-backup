@@ -166,6 +166,22 @@
       link: https://blog.1edg.cn
       avatar: https://pic1.imgdb.cn/item/68eda974c5157e1a886d6347.png
       descr: 小林的视界，分享生活，留住感动
+    - name: 哈喽！林墨白
+      link: https://blog.lmb.blue/
+      avatar: https://files.blog.lmb.blue/assets/img/logo/pink-black.png
+      descr: 沉墨满纸，一笑若白。
+      recommend: true
+    - name: ElysiumStack
+      link: https://www.elysium-stack.cn/
+      avatar: https://www.elysium-stack.cn/upload/ee0757e6-ebb4-46d0-a388-660f648653ea.jpg
+      descr: 不会摄影的设计师不是优秀的旅行家
+      recommend: true
+    - name: Xuan's blog
+      link: https://blog.ybyq.wang/
+      avatar: https://blog.ybyq.wang/usr/themes/handsome/assets/img/avatar.png
+      descr: 分享技术教程和学习笔记
+      recommend: true
+
 
 - class_name: 推荐地址
   class_desc: 酥米常用的网站地址
