@@ -7,6 +7,11 @@ type: update
 ---
 
 {% timeline 2025,blue %}
+<!-- timeline 10-23 -->
+修复文章中AI总结页面框的显示问题，美化AI总结框的暗色亮色模式显示。添加酥米JS CDN。
+![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/ais-2.JPG)
+![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/ais-1.JPG)
+<!-- endtimeline -->
 <!-- timeline 10-17 -->
 修复控制台显示的各种错误，提高网站无缓存启动速度，Cloudflare CDN TTL缓存设置为5分钟刷新一次
 <!-- endtimeline -->
