@@ -7,6 +7,10 @@ type: update
 ---
 
 {% timeline 2025,blue %}
+<!-- timeline 10-24 -->
+因为某些原因，更换51la统计为自部署umami统计。
+![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/u12.jpg)
+<!-- endtimeline -->
 <!-- timeline 10-23 -->
 修复文章中AI总结页面框的显示问题，美化AI总结框的暗色亮色模式显示。添加酥米JS CDN。
 ![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/ais-2.JPG)
