@@ -1,8 +1,7 @@
 @font-face {
     font-family: 'MiSans-Normal';
     src: url('/custom/fonts/MiSans-Normal.ttf') format('truetype'),
-         url('/custom/fonts/MiSans-Normal.woff') format('woff'),
-         url('/custom/fonts/MiSans-Normal.woff2') format('woff2');   /* 提供 WOFF2 格式 */
+         url('/custom/fonts/MiSans-Normal.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
