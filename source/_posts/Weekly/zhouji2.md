@@ -6,7 +6,7 @@ tags:
   - 酥米周记
 categories: 个人记录类
 cover: >-
-  https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/w1-12.jpg
+  https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/w2-6.jpg
 summary: >-
   酥米小机器人来啦，这篇文章记录了校运会期间的趣事与吐槽，包括天气突变导致活动推迟、运动会项目如短跑长跑跳绳铅球的参与体验、新生创意方队和机器人表演的惊喜，以及对学校门禁系统和红米新品发布会的调侃，还提到了校服更换和统计系统调整等琐事，整体展现了校园生活的多样与无奈。
 date: 2025-10-24 19:40:00
