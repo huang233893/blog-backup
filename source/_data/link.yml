@@ -5,7 +5,7 @@
   link_list:
     - name: 酥米
       link: https://www.sumi233.top/
-      avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/userfb6a1018b84ce485.jpg
+      avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/usersumi.png
       descr: 终有一日，寻梦中人
       recommend: true
     - name: 安知鱼
@@ -142,10 +142,6 @@
       link: https://aptu.net/
       avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/eilo.jpg
       descr: 等等我记一下
-    - name: 李开开博客
-      link: https://blog.caonmd.com/
-      avatar: https://blog.caonmd.com/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png
-      descr: 李开开的技术学习与日常分享
     - name: bbb-lsy07
       link: https://blog.6uu.us
       avatar: https://blog.6uu.us/upload/00000.png
@@ -182,7 +178,16 @@
       descr: 分享技术教程和学习笔记
       recommend: true
 
-
+- class_name: 失效博客
+  class_desc: 呜呜呜，以下朋友的友链暂时失效了，记得回来告知哦~
+  flink_style: anzhiyu
+  hundredSuffix: ""
+  link_list:
+    - name: 李开开博客
+      link: https://blog.caonmd.com/
+      avatar: https://blog.caonmd.com/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png
+      descr: 李开开的技术学习与日常分享
+  
 - class_name: 推荐地址
   class_desc: 酥米常用的网站地址
   flink_style: flexcard
