@@ -253,11 +253,18 @@
       "recommend": true
     },
     {
+      "name": "李的日志",
+      "link": "https://lilog.cn",
+      "avatar": "https://lilog.cn/Image/avatar.webp",
+      "descr": "在阅读中沉淀，于随笔中抒怀",
+      "recommend": true
+    },
+    {
       "name": "李开开博客",
       "link": "https://blog.caonmd.com/",
       "avatar": "https://blog.caonmd.com/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png",
       "descr": "李开开的技术学习与日常分享"
     }
   ],
-  "length": 40
+  "length": 41
 }
