@@ -46,6 +46,7 @@ type: "about"
 - [**开往**](https://www.travellings.cn/ "travellings")
 - [**博友圈**](https://www.boyouquan.com/blogs/www.sumi233.top "boyouquan")
 - [**博客说**](https://blogtalk.org/blogs/www.sumi233.top "BlogTalk")
+- [**博客录**](https://boke.lu/author/134 "bokelu")
 - [**个站商店**](https://storeweb.cn/site/o/2501 "StoreWeb")
 
 
