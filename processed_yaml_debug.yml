@@ -182,6 +182,11 @@
       avatar: https://lilog.cn/Image/avatar.webp
       descr: 在阅读中沉淀，于随笔中抒怀
       recommend: true
+    - name: KangQiのBlog
+      link: https://www.kangqiovo.com
+      avatar: https://www.kangqiovo.com/wp-content/uploads/2025/10/kq.png
+      descr: 惟有忍耐到底的，必然得救
+      recommend: true
 
 - class_name: 失效博客
   class_desc: 呜呜呜，以下朋友的友链暂时失效了，记得回来告知哦~

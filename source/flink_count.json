@@ -260,11 +260,18 @@
       "recommend": true
     },
     {
+      "name": "KangQiのBlog",
+      "link": "https://www.kangqiovo.com",
+      "avatar": "https://www.kangqiovo.com/wp-content/uploads/2025/10/kq.png",
+      "descr": "惟有忍耐到底的，必然得救",
+      "recommend": true
+    },
+    {
       "name": "李开开博客",
       "link": "https://blog.caonmd.com/",
       "avatar": "https://blog.caonmd.com/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png",
       "descr": "李开开的技术学习与日常分享"
     }
   ],
-  "length": 41
+  "length": 42
 }
