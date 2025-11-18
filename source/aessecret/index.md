@@ -5,7 +5,6 @@ comments: false
 date: 2025-09-26
 ---
 
-<!-- 高级AES加解密工具 - Anzhiyu主题适配版 -->
 <div id="aes-tool-widget" style="width: 100%; max-width: 700px; margin: 2rem auto; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.1);">
   <!-- Shadow DOM内容将通过JavaScript注入 -->
 </div>
@@ -311,7 +310,7 @@ date: 2025-09-26
     </style>
 
     <div class="container">
-      <h1>高级AES加解密工具</h1>
+      <h1>AES加解密工具</h1>
       
       <div class="environment-warning" id="env-warning">
         ⚠️ 注意：加密功能需要在安全上下文（HTTPS或localhost）中运行，请切换到支持的环境。
