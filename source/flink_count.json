@@ -74,12 +74,6 @@
       "descr": "素白清韵，简静安然"
     },
     {
-      "name": "Ganzhe",
-      "link": "https://www.ganzhe.site/",
-      "avatar": "https://pic.imgdb.cn/item/64895d391ddac507cce97bc3.webp",
-      "descr": "顺其自然，持之以恒"
-    },
-    {
       "name": "UWillno's Blog",
       "link": "https://uwillno.com",
       "avatar": "https://uwillno.com/uwlogo.png",
@@ -196,6 +190,12 @@
       "avatar": "https://www.kangqiovo.com/wp-content/uploads/2025/10/kq.png",
       "descr": "惟有忍耐到底的，必然得救",
       "recommend": true
+    },
+    {
+      "name": "李开开博客",
+      "link": "https://blog.erzip.cn/",
+      "avatar": "https://blog.erzip.cn/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png",
+      "descr": "李开开的技术学习与日常分享"
     },
     {
       "name": "李的日志",

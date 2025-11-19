@@ -54,10 +54,6 @@
       link: https://memo.moieo.net/
       avatar: https://cn.cravatar.com/avatar/89b071e828602b9f77003bdcc5b0e05c?s=150
       descr: 素白清韵，简静安然
-    - name: Ganzhe
-      link: https://www.ganzhe.site/
-      avatar: https://pic.imgdb.cn/item/64895d391ddac507cce97bc3.webp
-      descr: 顺其自然，持之以恒
     - name: UWillno's Blog
       link: https://uwillno.com
       avatar: https://uwillno.com/uwlogo.png
@@ -140,6 +136,10 @@
       avatar: https://www.kangqiovo.com/wp-content/uploads/2025/10/kq.png
       descr: 惟有忍耐到底的，必然得救
       recommend: true
+    - name: 李开开博客
+      link: https://blog.erzip.cn/
+      avatar: https://blog.erzip.cn/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png
+      descr: 李开开的技术学习与日常分享
 
 
 - class_name: 生活类博客
@@ -195,14 +195,14 @@
   flink_style: anzhiyu
   hundredSuffix: ""
   link_list:
-    - name: 李开开博客
-      link: https://blog.caonmd.com/
-      avatar: https://blog.caonmd.com/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png
-      descr: 李开开的技术学习与日常分享
     - name: 如笙
       link: https://blog.rusheng.top
       avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230805122421.png
       descr: 人生如梦，不过三六
+    - name: Ganzhe
+      link: https://www.ganzhe.site/
+      avatar: https://pic.imgdb.cn/item/64895d391ddac507cce97bc3.webp
+      descr: 顺其自然，持之以恒
   
 - class_name: 推荐地址
   class_desc: 酥米常用的网站地址
