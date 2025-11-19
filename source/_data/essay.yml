@@ -7,6 +7,8 @@
   home_essay: true
   top_background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/talk.jpg
   essay_list:
+    - content: 昨晚Cloudflare故障导致网站打不开的问题，现已逐步恢复~
+      date: 2025/11/19
     - content: 为了防止有别有用心的人进行刷新评论操作，本站从今天起测试性评论turnstile服务
       date: 2025/10/19
     - content: 酥米后续来啦!今天果不其然还是跑去朋友那玩啦，音游真滴好难，酥米表示打不动中二哈哈

@@ -7,6 +7,10 @@ type: update
 ---
 
 {% timeline 2025,blue %}
+<!-- timeline 11-19 -->
+添加足迹页面，现在可以查看酥米去过的地方啦！精简导航栏”好玩的“选项，小游戏统一集合进”游戏合集“页面
+![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/u13.jpg)
+<!-- endtimeline -->
 <!-- timeline 10-24 -->
 因为某些原因，更换51la统计为自部署umami统计。
 ![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/u12.jpg)
