@@ -365,3 +365,15 @@ restful_api:
     path: api/search.json  
     field: post
     content: true
+
+nofollow:
+  enable: true
+  field: site
+  exclude:
+    - 'up.sumi233.top'
+    - 'astro.sumi233.top'
+    - 'cdn.sumi233.top'
+    - 'twi.sumi233.top'
+    - 'twii.sumi233.top'
+    - 'friends.sumi233.top'
+    - 'link.sumi233.top'

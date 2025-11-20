@@ -5708,6 +5708,11 @@ hexo-filter-fcircle-anzhiyu@^1.1.5:
   dependencies:
     pug "^3.0.0"
 
+hexo-filter-nofollow@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.npmmirror.com/hexo-filter-nofollow/-/hexo-filter-nofollow-2.0.2.tgz"
+  integrity sha512-roIkEIkGOR22EPMoy8iKrufDoAH25LOT5ZeVXVLavEpM757Y96kfUhyathryMLXr326EURffgkZAKsVf3EDl0A==
+
 hexo-front-matter@^0.2.2:
   version "0.2.3"
   resolved "https://registry.npmmirror.com/hexo-front-matter/-/hexo-front-matter-0.2.3.tgz"
