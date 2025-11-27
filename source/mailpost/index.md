@@ -28,10 +28,10 @@ date: 2025-11-27 22:14:59
 
 **请在标题后直接输入您的邮箱，不要带空格及其他符号**
 
-- 输入邮箱前
+**输入邮箱前**
 ![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/postm7.jpg)
 
-- 输入邮箱后
+**输入邮箱后**
 ![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/postm5.jpg)
 
 5. 点击”Create“
