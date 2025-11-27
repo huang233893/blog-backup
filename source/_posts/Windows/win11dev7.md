@@ -1,6 +1,6 @@
 ---
-title: Windows 11 Insider Preview Build 26220.7262 更新日志
-description: Windows 11 Insider Preview Build 26220.7262 预览版的更新内容
+title: Windows 11 Insider Preview Build 26220.7262 更新日志: 修复大量bug
+description: Windows 11 Insider Preview Build 26220.7262 DEV预览版的更新内容
 tags:
   - Windows
   - 系统
