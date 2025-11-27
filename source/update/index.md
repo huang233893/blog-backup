@@ -7,6 +7,12 @@ type: update
 ---
 
 {% timeline 2025,blue %}
+<!-- timeline 11-27 -->
+修复朋友圈无法加载的问题，更换原版朋友圈为朋友圈Lite，前端js套壳更换为主题原生套件，添加github issues 邮箱文章推送功能
+![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/u14.jpg)
+![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/u15.jpg)
+![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/u16.jpg)
+<!-- endtimeline -->
 <!-- timeline 11-19 -->
 添加足迹页面，现在可以查看酥米去过的地方啦！精简导航栏”好玩的“选项，小游戏统一集合进”游戏合集“页面
 ![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/u13.jpg)
