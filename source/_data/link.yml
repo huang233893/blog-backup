@@ -234,4 +234,8 @@
       avatar: https://cover.weizwz.com/_next/image?url=%2Flogo.png&w=64&q=75
       descr: 开源的博客、视频封面生成器
       siteshot: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/Thiscloverpages.jpg
-
+    - name: AnyWebp
+      link: https://anywebp.com/convert-to-webp
+      avatar: https://anywebp.com/_next/image?url=%2Flogo%2Flogo.png&w=128&q=75
+      descr: 免费的批量 WebP 格式在线转换工具
+      siteshot: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/AnyWebp.webp
