@@ -1,8 +1,6 @@
 @font-face {
-    font-family: 'MiSans-Normal';
-    src: url('/custom/fonts/MiSans-Normal.ttf') format('truetype'),
-         url('/custom/fonts/MiSans-Normal.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'oppo-sans';
+    src: url('/custom/fonts/oppo-sans.woff') format('woff2'),
+         url('/custom/fonts/oppo-sans.ttf') format('truetype');
     font-display: swap;
 }

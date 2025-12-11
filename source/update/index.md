@@ -7,6 +7,9 @@ type: update
 ---
 
 {% timeline 2025,blue %}
+<!-- timeline 12-11 -->
+更改MiSans字体为OppoSans，让文章阅读变得更加简洁美观
+<!-- endtimeline -->
 <!-- timeline 11-27 -->
 修复朋友圈无法加载的问题，更换原版朋友圈为朋友圈Lite，前端js套壳更换为主题原生套件，添加github issues 邮箱文章推送功能
 ![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/u14.jpg)
