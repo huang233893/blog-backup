@@ -378,3 +378,26 @@ nofollow:
     - 'twii.sumi233.top'
     - 'friends.sumi233.top'
     - 'link.sumi233.top'
+
+# electric_clock
+# see: https://github.com/hoochanlon/hexo-butterfly-clock-remake
+electric_clock:
+  enable: true
+  priority: 5           
+  enable_page: all      
+  exclude:              
+    # - /posts/
+    # - /about/
+  layout:
+    type: class          
+    name: aside-content  
+    # insert_before: user-countdown
+    insert_after: card-announcement  
+  loading: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/loadingclock.gif
+  clock_css: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/clock-min.css
+  clock_js: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/clock-min.js
+
+  qweather_api_host: https://p86tug6npp.re.qweatherapi.com  # 注意要写成 https://xxx.qweatherapi.com
+  qweather_key: fcef7eee2f934331ac51db1e04086420
+
+  # default_city: "佛山"

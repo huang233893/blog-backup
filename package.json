@@ -24,6 +24,7 @@
     "hexo-asset-image": "github:xcodebuild/hexo-asset-image",
     "hexo-baidu-url-submit": "^0.0.6",
     "hexo-bilibili-bangumi": "^2.0.1",
+    "hexo-butterfly-clock-remake": "^2.0.12",
     "hexo-butterfly-envelope": "^1.0.15",
     "hexo-cli": "^4.3.2",
     "hexo-deployer-git": "^4.0.0",
