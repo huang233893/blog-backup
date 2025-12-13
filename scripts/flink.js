@@ -4,7 +4,7 @@ const path = require('path');
 
 // 路径配置
 const LINK_YML_PATH = path.join('source', '_data', 'link.yml');
-const OUTPUT_JSON_PATH = path.join('source', 'link.json');
+const OUTPUT_JSON_PATH = path.join('source', 'flink.json');
 const TAKE_COUNT = 2;
 
 async function processLinks() {
@@ -45,31 +45,19 @@ async function processLinks() {
         throw new Error('YAML文件的根结构不是数组');
       }
       
-      const friendsList = [];
+      const linkList = [];
       for (let i = 0; i < Math.min(TAKE_COUNT, data.length); i++) {
         const item = data[i];
         if (item && Array.isArray(item.link_list)) {
-          // 转换为 [名称, 链接, 头像] 格式的子数组
-          item.link_list.forEach(link => {
-            // 关键修改：实际字段是link而非url，匹配YAML中的实际字段名
-            if (link.name && link.link && link.avatar) {
-              friendsList.push([
-                link.name,
-                link.link,  // 修正为link字段
-                link.avatar
-              ]);
-            } else {
-              console.warn(`跳过不完整的友链项: ${JSON.stringify(link)}`);
-            }
-          });
+          linkList.push(...item.link_list);
         } else {
           console.warn(`第${i+1}项不包含有效的link_list数组，已跳过`);
         }
       }
       
-      // 构建目标格式的输出数据
       const outputData = {
-        friends: friendsList
+        link_list: linkList,
+        length: linkList.length
       };
       
       await fs.writeFile(
@@ -78,7 +66,7 @@ async function processLinks() {
         'utf8'
       );
       
-      console.log(`成功生成 ${OUTPUT_JSON_PATH}，共包含 ${friendsList.length} 条友链`);
+      console.log(`成功生成 ${OUTPUT_JSON_PATH}，共包含 ${linkList.length} 条友链`);
       
     } catch (parseError) {
       console.error('\n=== YAML解析错误 ===');
