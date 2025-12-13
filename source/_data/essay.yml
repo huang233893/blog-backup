@@ -7,6 +7,10 @@
   home_essay: true
   top_background: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/talk.jpg
   essay_list:
+    - content: 铭记历史，勿忘国耻！
+      image: 
+        - https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/gjgjr2025.jpg
+      date: 2025/12/13
     - content: 呼~ 明天要统考啦，有点小紧张，希望可以考一个不错的成绩
       date: 2025/11/27
     - content: 昨晚Cloudflare故障导致网站打不开的问题，现已逐步恢复~

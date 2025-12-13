@@ -7,6 +7,9 @@ type: update
 ---
 
 {% timeline 2025,blue %}
+<!-- timeline 12-13 -->
+引入静态文件版本化，尝试改善浏览器缓存导致的刷新问题
+<!-- endtimeline -->
 <!-- timeline 12-11 -->
 更改MiSans字体为OppoSans，让文章阅读变得更加简洁美观
 <!-- endtimeline -->
