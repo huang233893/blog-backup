@@ -11757,10 +11757,10 @@ tencentcloud-sdk-nodejs-teo@^4.1.126:
     tencentcloud-sdk-nodejs-common "*"
     tslib "1.13.0"
 
-tencentcloud-sdk-nodejs@^4.1.126:
-  version "4.1.126"
-  resolved "https://registry.npmmirror.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.1.126.tgz"
-  integrity sha512-xjLtHl2FthzzDXSVaTWt7jLxgQfu6XR0G4vjTkAos/ACCMqHdtuZoye6xt3NRKU+vYcV/q5M73PfLM+ZYFkPAg==
+tencentcloud-sdk-nodejs@^4.1.156:
+  version "4.1.156"
+  resolved "https://registry.npmmirror.com/tencentcloud-sdk-nodejs/-/tencentcloud-sdk-nodejs-4.1.156.tgz"
+  integrity sha512-RICLsF6NPpineLAqEABHe1kn5dbQupi06VmElTk/0139rZhMjUFo3EHhebMdcGuPdlBbSBocOmVKmMsnmiVhyQ==
   dependencies:
     form-data "^3.0.4"
     get-stream "^6.0.0"

@@ -2,3 +2,4 @@ public/
 .deploy
 .deploy_git/
 *.log
+EdgeOne.js
