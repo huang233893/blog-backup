@@ -132,7 +132,7 @@ live2d:
 # aplayer
 aplayer:  
   meting: true  
-  asset_inject: false
+  asset_inject: true
 
   # Extensions
 plugins:
