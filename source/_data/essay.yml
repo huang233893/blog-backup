@@ -9,6 +9,9 @@
   essay_list:
     - content: 大家2025冬至安康！
       date: 2025/12/21
+      aplayer:
+        server: netease
+        id: 64501
       link: https://music.163.com/#/song?id=64501
     - content: 铭记历史，勿忘国耻！
       image: 

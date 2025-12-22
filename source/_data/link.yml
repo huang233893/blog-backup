@@ -209,21 +209,3 @@
       link: https://zhujay.com
       avatar: https://zhujay.com/images/webhead/wh2.png
       descr: 不是什么技术大佬，完全就是瞎折腾。这里没有技术分享，只有简简单单的生活记录与你分享。
-
-- class_name: 失效博客
-  class_desc: 呜呜呜，以下朋友的友链暂时失效了，记得回来告知哦~
-  flink_style: anzhiyu
-  hundredSuffix: ""
-  link_list:
-    - name: 如笙
-      link: https://blog.rusheng.top
-      avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230805122421.png
-      descr: 人生如梦，不过三六
-    - name: Ganzhe
-      link: https://www.ganzhe.site/
-      avatar: https://pic.imgdb.cn/item/64895d391ddac507cce97bc3.webp
-      descr: 顺其自然，持之以恒
-    - name: 春华秋实
-      link: https://linqiushi.top
-      avatar: https://youke1.picui.cn/s1/2025/10/07/68e52c2a55563.png
-      descr: 无恙桃花，依然燕子，春景多别
