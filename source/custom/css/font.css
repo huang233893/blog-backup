@@ -1,6 +1,5 @@
 @font-face {
     font-family: 'oppo-sans';
     font-display: swap;
-    src: url('/custom/fonts/oppo-sans.woff2') format('woff2'),
-         url('/custom/fonts/oppo-sans.ttf') format('truetype');
+    src: url('/custom/fonts/oppo-sans.woff2') format('woff2')
 }
