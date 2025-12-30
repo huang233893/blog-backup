@@ -66,20 +66,7 @@ descr: 终有一日，寻梦中人
 
 添加友链后发现没有在此页面显示友链的小伙伴们，请尝试 `Ctrl + F5` 或者**清除缓存**进行硬刷新查看哦~（如确实没有你的链接，请在评论区留言或者使用Tidio私信我重新添加哦）
 
-联系邮箱：**2096231523@qq.com**
-
-### Tidio 私信方式
-
-- 点击右下角工具栏SMS图标
-
-![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/sixin.png)
-
-- 点击左上角箭头返回，选择申请友链
-
-![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/tidio2.png)
-
-![](https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/tidio3.png)
-- 填入你的名字和邮箱，按照上面格式发送申请即可
+联系邮箱：<2096231523@qq.com>
 
 
 

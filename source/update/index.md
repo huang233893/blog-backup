@@ -7,6 +7,9 @@ type: update
 ---
 
 {% timeline 2025,blue %}
+<!-- timeline 12-30 -->
+年前最后一起更新啦~ 修复了因为部分脚本导致的pjax报错，加入十年之约角标，彻底关闭Tidio私信工具（开启会导致网站加载问题）
+<!-- endtimeline -->
 <!-- timeline 12-13 -->
 引入静态文件版本化，尝试改善浏览器缓存导致的刷新问题
 <!-- endtimeline -->
