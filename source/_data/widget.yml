@@ -10,7 +10,7 @@ top:
     name: 博阅榜
     icon: 
     html: |
-      <a href="https://www.blogsclub.org/rank.html" target="_blank"><img id="blogclub-badge" style="height:60px!important;border:0;display:none;" class="no-lazy" referrerpolicy="unsafe-url"><script>function loadBadge(){const img=document.getElementById("blogclub-badge");if(img){img.src="";img.style.display="none";const load=()=>{img.src=`https://www.blogsclub.org/badge/www.sumi233.top?ref=${encodeURIComponent(window.location.origin)}&t=${Date.now()}_${Math.random()}`;img.onload=()=>{img.style.display="inline-block";};img.onerror=()=>{setTimeout(load,1000);}};load();}}const observer=new MutationObserver((mutations,obs)=>{if(document.getElementById("blogclub-badge")){loadBadge();obs.disconnect();}});observer.observe(document.body,{childList:true,subtree:true});window.addEventListener("pjax:complete",()=>{observer.observe(document.body,{childList:true,subtree:true});});</script></a>
+        <a href="https://www.blogsclub.org/rank.html" target="_blank"><img id="blogclub-badge" style="height:60px!important;border:0;display:none;" class="no-lazy" referrerpolicy="unsafe-url"></a><script defer data-pjax>function loadBadge(){const img=document.getElementById("blogclub-badge");if(img){img.src="";img.style.display="none";const load=()=>{img.src=`https://www.blogsclub.org/badge/www.sumi233.top?ref=${encodeURIComponent(window.location.origin)}&t=${Date.now()}_${Math.random()}`;img.onload=()=>{img.style.display="inline-block";};img.onerror=()=>{setTimeout(load,1000);};};load();}}document.addEventListener('DOMContentLoaded',loadBadge);</script>
         
   - class_name: calendar
     id_name: card-widget-calendar
