@@ -149,6 +149,10 @@
       avatar: https://blog.liushen.fun/info/avatar.ico
       descr: 柳影曳曳，清酒孤灯，扬笔撒墨，心境如霜
       recommend: true
+    - name: SAKURAIN TEAM
+      link: https://sakurain.net/
+      avatar: https://sakurain.net/image/logo.webp
+      descr: 用代码构建未来
 
 - class_name: 生活类博客
   class_desc: 生活类文章五篇以上即可申请~

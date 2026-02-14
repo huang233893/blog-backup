@@ -211,6 +211,12 @@
       "recommend": true
     },
     {
+      "name": "SAKURAIN TEAM",
+      "link": "https://sakurain.net/",
+      "avatar": "https://sakurain.net/image/logo.webp",
+      "descr": "用代码构建未来"
+    },
+    {
       "name": "李的日志",
       "link": "https://lilog.cn",
       "avatar": "https://lilog.cn/Image/avatar.webp",
@@ -291,5 +297,5 @@
       "descr": "不是什么技术大佬，完全就是瞎折腾。这里没有技术分享，只有简简单单的生活记录与你分享。"
     }
   ],
-  "length": 45
+  "length": 46
 }
