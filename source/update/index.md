@@ -5,6 +5,15 @@ comments: true
 aside: false
 type: update
 ---
+> 酥米正在摸鱼中😊~ 如在本站发现问题可以在此反馈哦！
+
+{% timeline 2026,blue %}
+
+<!-- timeline 03-02 -->
+新年第一次更新博客网站本体~ 本次更新完善了关于页部分强调色的优化和同步，减少了部分无用的网页特效，重新开启预加载功能（不清楚是否有用）
+<!-- endtimeline -->
+
+{% endtimeline %}
 
 {% timeline 2025,blue %}
 <!-- timeline 12-30 -->
