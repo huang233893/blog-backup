@@ -251,7 +251,7 @@
     {
       "name": "LanKe",
       "link": "https://blog.blueke.top",
-      "avatar": "https://blog.blueke.top/logo.png",
+      "avatar": "https://gcore.jsdelivr.net/gh/Keduoli03/My_img@main/image/%E5%A4%B4%E5%83%8F.webp",
       "descr": "请为一切不真实之物骄傲，因为我们高于这个世界！"
     },
     {
@@ -259,12 +259,6 @@
       "link": "https://www.luosir.cn/",
       "avatar": "https://q2.qlogo.cn/g?b=qq&nk=10936102&s=100",
       "descr": "记录喜欢折腾的日常"
-    },
-    {
-      "name": "小林先森",
-      "link": "https://blog.1edg.cn",
-      "avatar": "https://pic1.imgdb.cn/item/68eda974c5157e1a886d6347.png",
-      "descr": "小林的视界，分享生活，留住感动"
     },
     {
       "name": "天影大侠的小站",
@@ -297,5 +291,5 @@
       "descr": "不是什么技术大佬，完全就是瞎折腾。这里没有技术分享，只有简简单单的生活记录与你分享。"
     }
   ],
-  "length": 46
+  "length": 45
 }
