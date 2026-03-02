@@ -87,7 +87,7 @@
     API_URL: 'https://twi.sumi233.top',
     ADMIN_EMAIL_MD5: '06e6482a556524b9a7f7f50476b5fd54b8ce92fa598bf093ed8b4293c45e040f',
     PAGE_SIZE: 5,
-    LOADING_GIF: 'https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/kunkundeeacf771b39ab69.gif',
+    LOADING_GIF: 'https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/loading1.gif',
   
     async fetchComments() {
       const controller = new AbortController();
@@ -185,7 +185,7 @@
       let content;
   
       if (comments === null) {
-        content = this.getErrorTemplate('exclamation-circle', '评论加载失败，请稍后再试');
+        content = this.getErrorTemplate('exclamation-circle', '哎呀！评论加载失败，刷新一下再来吧~');
       } else if (comments.length === 0) {
         content = this.getErrorTemplate('comment-slash', '还没有评论呢~ 快来抢沙发吧！');
       } else {
