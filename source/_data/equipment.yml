@@ -29,21 +29,21 @@
     - title: 出行
       description: 用来出行的实物及设备
       equipment_list:
-        - name: Xiaomi Watch S3
-          specification: 黑色 / 蓝牙版
-          description: 也为了小米生态而买，用于防止我过早的猝死在学校（bushi），有澎湃2.0更新，维护不行，系统一堆bugs，功能半残了，难崩。
-          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/32195701edb4dd8950a.png
-          link: https://www.mi.com/xiaomi-watch-s3
+        - name: 小米手环10
+          specification: 绿色 / NFC版
+          description: 也为了小米生态而买，用于防止我过早的猝死在学校（bushi），终于把S3换掉了，成功脱离3天续航苦海
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/miband10.jpg
+          link: https://www.mi.com/prod/xiaomi-smart-band-10
         - name: Redmi Buds 5 Pro
           specification: Pro
           description: 是的4代升5代，更加垃圾了
           image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/1697.png
           link: https://www.mi.com/redmibuds5pro
-        - name: Celi Koel 单肩包
+        - name: 优衣库单肩挎包
           specification: 黑色
-          description: 最普通的单肩包，因为平时不带电脑，小小的一个包深得我心，口袋齐全，可以放进很多东西
-          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/_202411201609333fedb1dbef2ffb57.jpg
-          link: https://mobile.yangkeduo.com/goods1.html?ps=OOsQ3ACMEn
+          description: 能装下很多东西，背着舒适轻盈，比较值得
+          image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/uykdjb.jpg
+          link: https://www.uniqlo.cn/product-detail.html?productCode=u0000000067404
         - name: 不知名电脑包一个
           specification: 黑色
           description: 最普通的电脑包，淘宝购入，质量还行，装我的游戏本绰绰有余，还有单肩挂绳
