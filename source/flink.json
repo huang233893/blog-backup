@@ -289,7 +289,14 @@
       "link": "https://zhujay.com",
       "avatar": "https://zhujay.com/images/webhead/wh2.png",
       "descr": "不是什么技术大佬，完全就是瞎折腾。这里没有技术分享，只有简简单单的生活记录与你分享。"
+    },
+    {
+      "name": "暖心向阳335",
+      "link": "https://nxxy335.top/",
+      "avatar": "https://nxxy335.top/upload/logo.jpg",
+      "descr": "永不言败，砥砺前行",
+      "recommend": true
     }
   ],
-  "length": 45
+  "length": 46
 }
