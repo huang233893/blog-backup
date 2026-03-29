@@ -217,6 +217,12 @@
       "descr": "用代码构建未来"
     },
     {
+      "name": "天渺 studio",
+      "link": "https://tianmiao.site/",
+      "avatar": "https://s21.ax1x.com/2024/12/22/pAXtJat.jpg",
+      "descr": "天渺 studio 的小站和日志记录"
+    },
+    {
       "name": "李的日志",
       "link": "https://lilog.cn",
       "avatar": "https://lilog.cn/Image/avatar.webp",
@@ -298,5 +304,5 @@
       "recommend": true
     }
   ],
-  "length": 46
+  "length": 47
 }
