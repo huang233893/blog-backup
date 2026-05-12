@@ -26,6 +26,12 @@
           description: 金属机身，3d touch，a9的性能吊打骁龙680，现在当mp3用。
           image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/111996_SP727-iphone6s-plus-gray-select-2015.png
           link: https://support.apple.com/zh-cn/111996
+        - name: OnePlus 8
+          specification: 银色 / 8G / 128G
+          description: 全曲机身，曲面屏，超薄机身，特别适合作为备用机
+          image: https://statics.oneplus.cn/ov/assets/images/events/instant-noodle/specs/color-8.jpg
+          link: https://www.oneplus.com/cn/8/specs?from=8
+
     - title: 出行
       description: 用来出行的实物及设备
       equipment_list:
@@ -34,6 +40,11 @@
           description: 也为了小米生态而买，用于防止我过早的猝死在学校（bushi），终于把S3换掉了，成功脱离3天续航苦海
           image: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/miband10.jpg
           link: https://www.mi.com/prod/xiaomi-smart-band-10
+        - name: OnePlus Buds Ace3
+          specification: 灰色
+          description: 很不错的耳机，OPPO Enco Air 5 Pro 套壳
+          image: https://www.oppo.com/content/dam/oppo_com/cn/oneplus/listpage/headphones/OnePlus-Buds-Ace-3_Radiant-Gray.png
+          link: https://www.opposhop.cn/cn/web/products/40198.html
         - name: Redmi Buds 5 Pro
           specification: Pro
           description: 是的4代升5代，更加垃圾了
