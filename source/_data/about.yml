@@ -29,8 +29,6 @@
     tips: 生涯
     title: 努力进步
     list:
-      - desc: 初中,初中牲
-        color: "#ffa500"
       - desc: 中职,计算机网络技术
         color: "#ffa500"
       - desc: 大专,物联网应用技术专业

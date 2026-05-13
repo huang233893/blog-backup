@@ -1,13 +1,8 @@
-- class_name: 技术类博客
-  class_desc: 技术类文章五篇以上即可申请~
+- class_name: 互相友链
+  class_desc: 互相交流，互相学习，互相进步~
   flink_style: anzhiyu
   hundredSuffix: ""
   link_list:
-    - name: 酥米
-      link: https://www.sumi233.top/
-      avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/usersumi.png
-      descr: 终有一日，寻梦中人
-      recommend: true
     - name: 安知鱼
       link: https://blog.anheyu.com/
       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
@@ -117,7 +112,7 @@
       avatar: https://blog.ybyq.wang/usr/themes/handsome/assets/img/avatar.png
       descr: 分享技术教程和学习笔记
       recommend: true
-    - name: 李开开博客
+    - name: 咸鱼博客
       link: https://blog.erzip.cn/
       avatar: https://blog.erzip.cn/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png
       descr: 李开开的技术学习与日常分享
@@ -138,21 +133,11 @@
       link: https://tianmiao.site/
       avatar: https://s21.ax1x.com/2024/12/22/pAXtJat.jpg
       descr: 天渺 studio 的小站和日志记录
-
-- class_name: 生活类博客
-  class_desc: 生活类文章五篇以上即可申请~
-  flink_style: anzhiyu
-  hundredSuffix: ""
-  link_list:
     - name: 皮皮社
       link: https://www.pipishe.com/
       avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/pipishe.webp
       descr: 皮一下，很开心！
       recommend: true
-    - name: 严重浪漫
-      link: https://www.bat69.com/
-      avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/yanzhonglangman.webp
-      descr: 严重浪漫博客
     - name: 彬红茶日记
       link: https://note.redcha.cn
       avatar: https://note.redcha.cn/upload/favicon-256x256.png
@@ -174,10 +159,6 @@
       link: https://blog.skyshadow.fun
       avatar: https://weavatar.com/avatar/7388ea4765a319d5f83fea61c3236384?s=1000
       descr: 天影大侠的小站
-    - name: 木竹
-      link: https://www.laomuzhu.cn/
-      avatar: https://www.laomuzhu.cn/img/touxiang.jpg
-      descr: 喜欢把复杂的图纸变成简洁优雅的造价文件
     - name: Feng的小屋
       link: https://bkfeng.vvvv.ee
       avatar: https://bkfeng.vvvv.ee/usr/uploads/2025/08/3463454780.png
@@ -195,3 +176,13 @@
       link: https://blog.zxiaolin.com
       avatar: https://cdn.zxiaolin.com/imgas/humuziwt.png
       descr: 记录生活，专注于自媒体
+
+- class_name: 单向友链
+  class_desc: 单相思~
+  flink_style: anzhiyu
+  hundredSuffix: ""
+  link_list:
+    - name: 严重浪漫
+      link: https://www.bat69.com/
+      avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/yanzhonglangman.webp
+      descr: 严重浪漫博客

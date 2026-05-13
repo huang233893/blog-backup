@@ -1,11 +1,6 @@
 {
   "friends": [
     [
-      "酥米",
-      "https://www.sumi233.top/",
-      "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/usersumi.png"
-    ],
-    [
       "安知鱼",
       "https://blog.anheyu.com/",
       "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
@@ -126,7 +121,7 @@
       "https://blog.ybyq.wang/usr/themes/handsome/assets/img/avatar.png"
     ],
     [
-      "李开开博客",
+      "咸鱼博客",
       "https://blog.erzip.cn/",
       "https://blog.erzip.cn/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png"
     ],
@@ -156,11 +151,6 @@
       "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/pipishe.webp"
     ],
     [
-      "严重浪漫",
-      "https://www.bat69.com/",
-      "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/yanzhonglangman.webp"
-    ],
-    [
       "彬红茶日记",
       "https://note.redcha.cn",
       "https://note.redcha.cn/upload/favicon-256x256.png"
@@ -186,11 +176,6 @@
       "https://weavatar.com/avatar/7388ea4765a319d5f83fea61c3236384?s=1000"
     ],
     [
-      "木竹",
-      "https://www.laomuzhu.cn/",
-      "https://www.laomuzhu.cn/img/touxiang.jpg"
-    ],
-    [
       "Feng的小屋",
       "https://bkfeng.vvvv.ee",
       "https://bkfeng.vvvv.ee/usr/uploads/2025/08/3463454780.png"
@@ -209,6 +194,11 @@
       "小林酱博客",
       "https://blog.zxiaolin.com",
       "https://cdn.zxiaolin.com/imgas/humuziwt.png"
+    ],
+    [
+      "严重浪漫",
+      "https://www.bat69.com/",
+      "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/yanzhonglangman.webp"
     ]
   ]
 }
