@@ -29,19 +29,13 @@
     tips: 生涯
     title: 努力进步
     list:
-      - desc: 初中,初一
-        color: "#ffa500"
-      - desc: 初中,初二
-        color: "#ffa500"
-      - desc: 初中,初三
+      - desc: 初中,初中牲
         color: "#ffa500"
       - desc: 中职,计算机网络技术
         color: "#ffa500"
-      - desc: 中职,计算机网络技术
+      - desc: 大专,物联网应用技术专业
         color: "#ffa500"
-      - desc: 中职,计算机网络技术
-        color: "#ffa500"
-    img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/TimeLine.png
+    img: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/TimeLinenew.png
   statistic:
     link: /archives
     text: 文章隧道
@@ -54,10 +48,10 @@
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2007
-    selfInfoTips2: 华材职校
-    selfInfoContent2: 计算机网络技术
+    selfInfoTips2: 罗定技术职业学院
+    selfInfoContent2: 物联网应用技术专业
     selfInfoTips3: 现在职业
-    selfInfoContent3: 高三学生👨‍🎓
+    selfInfoContent3: 准大一学生👨‍🎓
   personalities:
     author_name: 探险家
     personality_type: ISPF-A

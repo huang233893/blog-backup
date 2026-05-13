@@ -32,10 +32,6 @@
       avatar: https://woolyun.com/wp-content/uploads/2025/05/yyl-e1746698677584.jpg
       descr: 建站经验记录，实用工具推荐，免费资源分享。
       recommend: true
-    - name: 柒渊阁
-      link: https://www.myxz.top/
-      avatar: https://sourceimage.s3.bitiful.net/myxz.avif
-      descr: 柒上月日，无铭之阁
     - name: Oyiso's Blog
       link: https://oyiso.cn
       avatar: https://oyiso.cn/logo.png
@@ -131,11 +127,6 @@
       avatar: https://blog.ybyq.wang/usr/themes/handsome/assets/img/avatar.png
       descr: 分享技术教程和学习笔记
       recommend: true
-    - name: KangQiのBlog
-      link: https://www.kangqiovo.com
-      avatar: https://www.kangqiovo.com/wp-content/uploads/2025/10/kq.png
-      descr: 惟有忍耐到底的，必然得救
-      recommend: true
     - name: 李开开博客
       link: https://blog.erzip.cn/
       avatar: https://blog.erzip.cn/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png
@@ -163,10 +154,6 @@
   flink_style: anzhiyu
   hundredSuffix: ""
   link_list:
-    - name: 李的日志
-      link: https://lilog.cn
-      avatar: https://lilog.cn/Image/avatar.webp
-      descr: 在阅读中沉淀，于随笔中抒怀
     - name: 皮皮社
       link: https://www.pipishe.com/
       avatar: https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/pipishe.webp
@@ -205,10 +192,6 @@
       link: https://bkfeng.vvvv.ee
       avatar: https://bkfeng.vvvv.ee/usr/uploads/2025/08/3463454780.png
       descr: 远赴人间惊鸿宴 一睹人间盛世颜
-    - name: 荒野菲克
-      link: https://ficor.net
-      avatar: https://ficor.net/images/favicon.ico
-      descr: 在路上的思绪与脚印
     - name: 朱小呆
       link: https://zhujay.com
       avatar: https://zhujay.com/images/webhead/wh2.png
@@ -218,3 +201,7 @@
       avatar: https://nxxy335.top/upload/logo.jpg
       descr: 永不言败，砥砺前行
       recommend: true
+    - name: 小林酱博客
+      link: https://blog.zxiaolin.com
+      avatar: https://cdn.zxiaolin.com/imgas/humuziwt.png
+      descr: 记录生活，专注于自媒体

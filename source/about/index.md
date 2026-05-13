@@ -13,7 +13,7 @@ type: "about"
 
 ### 关于本人
 
-> 我目前是个高三学生呢~（虽然是高职生😭） 目前在华材职中读计算机网络专业💻 本人常住在佛山市禅城区，欢迎大家来找我面基😍
+> 我目前是个准大一学生呢~（虽然是大专生😭） 目前在罗定技术职业学院就读物联网专业💻 本人常住在佛山市禅城区，欢迎大家来找我面基😍
 
 #### 关于爱好
 
@@ -25,27 +25,11 @@ type: "about"
 
 ### 未来方向和目标
 
- - [ ] 3+高职考考上广州水利电力学院
-
  - [ ] 18岁独自出远门游北京
 
  - [x] 博客参加十年之约
 
  - [x] 博客参加开往
-
-### 一起进步~
-
-酥米已经加入以下博客联盟啦😍~ 你也一起来参加吧~
-
-- [**中文博客集合**](https://github.com/timqian/chinese-independent-blogs "chinese-independent-blogs")
-- [**BlogFinder**](https://bf.zzxworld.com/s/1662 "BlogFinder")
-- [**BlogClub**](https://www.blogsclub.org/blog/405.html "BlogClub")
-- [**开往**](https://www.travellings.cn/ "travellings")
-- [**博友圈**](https://www.boyouquan.com/blogs/www.sumi233.top "boyouquan")
-- [**博客说**](https://blogtalk.org/blogs/www.sumi233.top "BlogTalk")
-- [**博客录**](https://boke.lu/author/134 "bokelu")
-- [**个站商店**](https://storeweb.cn/site/o/2501 "StoreWeb")
-
 
 ### 创站历史
 
