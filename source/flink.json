@@ -35,20 +35,6 @@
       "descr": "没有什么可以留住，除了死亡。"
     },
     {
-      "name": "天海博客",
-      "link": "https://woolyun.com/",
-      "avatar": "https://woolyun.com/wp-content/uploads/2025/05/yyl-e1746698677584.jpg",
-      "descr": "建站经验记录，实用工具推荐，免费资源分享。",
-      "recommend": true
-    },
-    {
-      "name": "Oyiso's Blog",
-      "link": "https://oyiso.cn",
-      "avatar": "https://oyiso.cn/logo.png",
-      "descr": "The shortest answer is doing",
-      "recommend": true
-    },
-    {
       "name": "Foxhole",
       "link": "https://blog.southfox.me/",
       "avatar": "https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/58982705.png",
@@ -285,5 +271,5 @@
       "descr": "记录生活，专注于自媒体"
     }
   ],
-  "length": 44
+  "length": 42
 }
