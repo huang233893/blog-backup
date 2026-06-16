@@ -35,12 +35,6 @@
       "recommend": true
     },
     {
-      "name": "Donghai",
-      "link": "https://mgrowup.com/",
-      "avatar": "https://mgrowup.com/avatar.webp",
-      "descr": "真诚记录，生活值得"
-    },
-    {
       "name": "晴雨笔记",
       "link": "https://memo.moieo.net/",
       "avatar": "https://cn.cravatar.com/avatar/89b071e828602b9f77003bdcc5b0e05c?s=150",
@@ -127,7 +121,7 @@
     {
       "name": "bbb-lsy07",
       "link": "https://blog.tsoo.net",
-      "avatar": "https://gcore.jsdelivr.net/gh/Keduoli03/My_img@main/image/%E5%A4%B4%E5%83%8F.webp",
+      "avatar": "https://blog.tsoo.net/upload/logo.jpg",
       "descr": "科技激荡人文，洞见智慧本真。"
     },
     {
@@ -158,15 +152,9 @@
       "recommend": true
     },
     {
-      "name": "咸鱼博客",
-      "link": "https://blog.erzip.cn/",
-      "avatar": "https://blog.erzip.cn/upload/%E5%A4%B4%E5%83%8F-%E5%9C%86.png",
-      "descr": "李开开的技术学习与日常分享"
-    },
-    {
-      "name": "青序栈",
+      "name": "筱序二十",
       "link": "https://www.qixz.cn/",
-      "avatar": "https://www.qixz.cn/favicon.svg",
+      "avatar": "https://www.qixz.cn/_ipx/_/avatar.avif",
       "descr": "青序成栈·向简而生"
     },
     {
@@ -250,6 +238,18 @@
       "link": "https://blog.zxiaolin.com",
       "avatar": "https://cdn.zxiaolin.com/imgas/humuziwt.png",
       "descr": "记录生活，专注于自媒体"
+    },
+    {
+      "name": "mccsjs",
+      "link": "https://blog.seln.cn/",
+      "avatar": "https://blog.seln.cn/img/ico.jpg",
+      "descr": "点一盏灯，等待一个迷路的夜🍁"
+    },
+    {
+      "name": "ImPatrick",
+      "link": "https://impatrick.blog",
+      "avatar": "https://www.sumi233.top/img/user.jpg",
+      "descr": "记录摄影，记录生活"
     },
     {
       "name": "严重浪漫",
