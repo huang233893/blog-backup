@@ -1,7 +1,6 @@
 ---
 title: PVE下it87安装驱动+风扇调速教程
 description: Proxmox Virtual Environment安装it87驱动和PWM风扇调速教程
-summary: >-
 tags:
   - 教程
 categories:
