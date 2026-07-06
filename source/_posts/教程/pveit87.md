@@ -7,6 +7,8 @@ categories:
   - 教程类
 cover: >-
   https://cdn.sumi233.top/gh/huang233893/blog-image-bed@main/top/huang233893/imgs/blog/pveit87-cover.webp
+summary: >-
+  酥米小机器人来啦，这篇文章主要讲解在PVE系统中安装it87驱动并实现风扇调速的方法。由于PVE默认不内置该驱动，需手动下载编译安装，先安装内核头文件，克隆驱动仓库，编译加载并持久化配置，再通过fancontrol工具检测PWM控制，调整风扇转速比例，最终实现根据温度智能调节风扇噪音，解决主机运行时噪音过大的问题。
 date: 2026-07-06 15:30:13
 ---
 
