@@ -176,6 +176,14 @@
       link: https://impatrick.blog
       avatar: https://www.sumi233.top/img/user.jpg
       descr: 记录摄影，记录生活
+    - name: 洪畅的博客
+      link: https://blog.hcbu.cn/
+      avatar: https://gitee.com/hcbug/picture1/raw/master/20260607223324364.webp
+      descr: 想，全是问题；做，才有答案。
+    - name: 雨眠碎碎念
+      link: https://blog.yuumii.top
+      avatar: https://yuumii.top/sys/avatar.ico
+      descr: 愿君安康
 
 - class_name: 单向友链
   class_desc: 单相思~
