@@ -183,7 +183,11 @@
     - name: MingBlog
       link: https://mingblog.site/
       avatar: https://mingblog.site/icons/icon-512.png
-      descr: 	记录日常生活、城市影像、旅行与观察，以及认真看过、读过和听过的作品。
+      descr: 记录日常生活、城市影像、旅行与观察，以及认真看过、读过和听过的作品。
+    - name: Fiee’s Blog
+      link: https://www.aifiee.cn
+      avatar: https://aifiee-blog.oss-cn-beijing.aliyuncs.com/blog/images/1782719333889_1414.jpg
+      descr: 长风破浪会有时，直挂云帆济沧海
 
 - class_name: 单向友链
   class_desc: 单相思~
