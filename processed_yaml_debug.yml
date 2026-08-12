@@ -10,7 +10,7 @@
       recommend: true
     - name: GcYJdRniC1
       link: https://www.ptilopsis.xyz/
-      avatar: https://www.ptilopsis.xyz/wp-content/uploads/2024/12/20241212152832.webp
+      avatar: https://www.ptilopsis.xyz/usr/themes/fuwacho/assets/images/demo-avatar.png
       descr: GcYJdRniC1's Blog!
       recommend: true
     - name: 槿鸢
@@ -57,10 +57,6 @@
       avatar: https://blog.mcxiaochen.top/favicon.ico
       descr: 05后,高中生,内容偏技术向希望能对你有用QwQ
       recommend: true
-    - name: 躬行笔记
-      link: https://www.fuzhoupyy.work
-      avatar: https://www.fuzhoupyy.work/usr/themes/blog/images/tx.jpg
-      descr: 古人学问无遗力，少壮工夫老始成。 纸上得来终觉浅，绝知此事要躬行。
     - name: 青灯暮雨
       link: https://www.blatr.cn
       avatar: https://www.blatr.cn/images/adminAvatar.jpg
@@ -99,8 +95,8 @@
       descr: 沉墨满纸，一笑若白。
       recommend: true
     - name: ElysiumStack
-      link: https://www.elysium-stack.cn/
-      avatar: https://elysium-stack.cn/upload/c4d9cffe-2541-40d3-b8b9-85f5827a2dc3.png
+      link: https://blog.elysium-stack.cn/
+      avatar: https://blog.elysium-stack.cn/_astro/avatar.eA6PYrjg_ML3hi.webp
       descr: 不会摄影的设计师不是优秀的旅行家
       recommend: true
     - name: Xuan's blog
@@ -184,6 +180,10 @@
       link: https://blog.yuumii.top
       avatar: https://yuumii.top/sys/avatar.ico
       descr: 愿君安康
+    - name: MingBlog
+      link: https://mingblog.site/
+      avatar: https://mingblog.site/icons/icon-512.png
+      descr:   记录日常生活、城市影像、旅行与观察，以及认真看过、读过和听过的作品。
 
 - class_name: 单向友链
   class_desc: 单相思~
