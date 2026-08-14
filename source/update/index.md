@@ -9,6 +9,10 @@ type: update
 
 {% timeline 2026,blue %}
 
+<!-- timeline 08-14 -->
+修复Pjax和懒加载冲突，修复Katx公式和Pjax冲突,修复observer声明重复问题
+<!-- endtimeline -->
+
 <!-- timeline 05-13 -->
 大量精简网站无用内容，去除小游戏和算命各种无用功能，更新关于页面信息
 <!-- endtimeline -->
