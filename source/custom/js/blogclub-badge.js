@@ -9,31 +9,35 @@
             return;
         }
 
-        // 如果已经显示且有 src，就不再重复加载
-        if (img.src && img.style.display !== 'none') {
-            console.log("[博阅榜] 徽章已加载且可见");
+        // 检查是否已经加载了正确的徽章（防止无限循环）
+        const currentSrc = img.src || '';
+        if (currentSrc.includes('blogsclub.org') && img.style.display !== 'none') {
+            console.log("[博阅榜] 已加载正确的徽章，跳过");
             return;
         }
 
-        console.log("[博阅榜] 开始加载徽章...");
+        console.log("[博阅榜] 开始加载/刷新徽章...");
+        
+        // 强制重置状态，清空旧 src
         img.style.display = "none";
         img.src = "";
 
         const doLoad = () => {
-            const url = `https://www.blogsclub.org/badge/www.sumi233.top?ref=${encodeURIComponent(window.location.origin)}&t=${Date.now()}_${Math.random()}`;
+            // 使用 window.location.host 自动适配你的域名
+            const site = window.location.host; // 例如 "www.sumi233.top"
+            const url = `https://www.blogsclub.org/badge/${site}?ref=${encodeURIComponent(window.location.origin)}&t=${Date.now()}_${Math.random()}`;
             console.log("[博阅榜] 请求 URL:", url);
+            
             img.src = url;
-
             img.onload = () => {
                 console.log("[博阅榜] 徽章加载成功 ✅");
                 img.style.display = "inline-block";
                 img.style.visibility = "visible";
                 img.style.opacity = "1";
             };
-
             img.onerror = () => {
-                console.warn("[博阅榜] 徽章加载失败，1秒后重试...");
-                setTimeout(doLoad, 1000);
+                console.warn("[博阅榜] 徽章加载失败，2秒后重试...");
+                setTimeout(doLoad, 2000);
             };
         };
 
@@ -43,56 +47,42 @@
     let observer = null;
 
     function startObserving() {
-        // 如果已有 observer，先断开
+        // 清理旧观察者
         if (observer) {
             observer.disconnect();
             observer = null;
         }
 
-        // 先检查元素是否已经存在
+        // 如果元素已经存在，直接加载
         if (document.getElementById("blogclub-badge")) {
             loadBadge();
-            return;
         }
 
-        // 否则用 MutationObserver 等待元素出现
-        observer = new MutationObserver((mutations, obs) => {
+        // 启动 MutationObserver 监听元素出现或变化
+        observer = new MutationObserver(() => {
             if (document.getElementById("blogclub-badge")) {
+                // 这里不直接调用 loadBadge，而是通过条件判断，避免在 PJAX 切换时过度刷新
+                // 但为了避免 1x1 占位图问题，我们直接调用 loadBadge（它内部有防重复逻辑）
                 loadBadge();
-                obs.disconnect();
-                observer = null;
             }
         });
-
-        observer.observe(document.body, {
-            childList: true,
-            subtree: true
-        });
-        console.log("[博阅榜] 已启动 MutationObserver 监听");
+        observer.observe(document.body, { childList: true, subtree: true });
+        console.log("[博阅榜] 已启动 DOM 监听");
     }
 
-    // 页面加载完成后执行
+    // 页面加载完成后初始化
     if (document.readyState === 'complete' || document.readyState === 'interactive') {
         startObserving();
     } else {
         document.addEventListener('DOMContentLoaded', startObserving);
     }
 
-    // 监听 pjax 切换事件，重新绑定观察者
+    // 监听 PJAX 完成事件
     window.addEventListener("pjax:complete", function() {
-        console.log("[博阅榜] PJAX 切换完成，重新加载徽章");
-        // 延迟一点确保 DOM 更新完毕
-        setTimeout(startObserving, 300);
+        console.log("[博阅榜] PJAX 切换完成");
+        // 延迟执行，确保新 DOM 已插入
+        setTimeout(loadBadge, 300);
     });
-
-    // 兜底：如果以上都没触发，5秒后强制尝试一次
-    setTimeout(function() {
-        const img = document.getElementById("blogclub-badge");
-        if (img && !img.src) {
-            console.log("[博阅榜] 兜底加载：5秒超时强制加载");
-            loadBadge();
-        }
-    }, 5000);
 
     console.log("[博阅榜] 脚本已加载");
 })();
